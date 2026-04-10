@@ -956,6 +956,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -1474,6 +1613,130 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Small"
 			(pin_numbers
 				(hide yes)
@@ -1589,6 +1852,394 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:RotaryEncoder_Switch"
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RotaryEncoder_Switch"
+				(at 0 -6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -3.81 4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "rotary switch encoder switch push button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RotaryEncoder*Switch*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RotaryEncoder_Switch_0_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy -3.81 2.54) (xy -3.81 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -3.81 0) (xy -3.81 -1.016) (xy -3.302 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -3.81 -2.54) (xy -3.81 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.318 0) (xy -3.81 0) (xy -3.81 1.016) (xy -3.302 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -3.81 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -1.778) (xy -0.635 1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.381 0)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.381 -1.778) (xy -0.381 1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.381 -2.794)
+					(mid -3.0988 -0.0635)
+					(end -0.381 2.667)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.127 1.778) (xy -0.127 -1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 2.921) (xy -0.508 2.667) (xy 0.127 2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -3.048) (xy -0.508 -2.794) (xy 0.127 -2.413)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.016) (xy 3.81 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 0) (xy 3.429 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.318 1.016)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 4.318 -1.016)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 4.318 2.54) (xy 4.318 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 4.318 -2.54) (xy 4.318 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RotaryEncoder_Switch_1_1"
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4018,6 +4669,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TODO figure out if this more complex wiring is needed.\nThe QMK docs say 'wire a and b directly to the mcu'"
+		(exclude_from_sim no)
+		(at 163.068 136.652 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "055bb6ba-8bbb-4dcb-93f3-09afeb5c3e24")
+	)
 	(text "Switch LEDs"
 		(exclude_from_sim no)
 		(at 22.86 177.038 0)
@@ -4203,6 +4864,12 @@
 		(uuid "0c8fe265-714c-4c4b-9be7-0a00fd0f9333")
 	)
 	(junction
+		(at 151.13 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0cdb5e16-728a-4434-88d7-34d0efe543f3")
+	)
+	(junction
 		(at 350.52 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4345,6 +5012,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2211f5b1-6fea-4be3-9f53-cd35d649b942")
+	)
+	(junction
+		(at 172.72 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "221ed883-f996-4a49-aaeb-d0b9dee889fd")
 	)
 	(junction
 		(at 251.46 46.99)
@@ -4593,6 +5266,12 @@
 		(uuid "3d8414c3-c9e3-4c35-a09f-cb54f88908a8")
 	)
 	(junction
+		(at 171.45 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "410d6eb9-62ac-4876-bdb8-b8c9a0855918")
+	)
+	(junction
 		(at 322.58 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4711,6 +5390,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5925953d-4b1c-412e-812f-28f75fbaf210")
+	)
+	(junction
+		(at 372.11 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a3fc44f-e092-411a-9024-f2724f5f0439")
 	)
 	(junction
 		(at 224.79 275.59)
@@ -5169,6 +5854,12 @@
 		(uuid "8f69ac0f-2a32-4323-82fe-fe32f2a6effa")
 	)
 	(junction
+		(at 152.4 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "907ce4ae-7cef-4b32-8d88-d6b8fb786444")
+	)
+	(junction
 		(at 41.91 275.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5589,6 +6280,12 @@
 		(uuid "c55cd487-9569-46f1-96c9-e6c92af28825")
 	)
 	(junction
+		(at 353.06 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c585ad87-8dbc-4681-93db-ba46218a3791")
+	)
+	(junction
 		(at 330.2 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5715,12 +6412,6 @@
 		(uuid "d52b2792-b047-47c3-9c16-2a0c12975f07")
 	)
 	(junction
-		(at 382.27 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5680f2a-ccdc-4850-bcfe-504475099597")
-	)
-	(junction
 		(at 353.06 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5743,12 +6434,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db328087-419d-41d8-a19e-d83c24bb42b0")
-	)
-	(junction
-		(at 364.49 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dbe86410-182d-4de8-bf2e-7a8d9bbbe4a1")
 	)
 	(junction
 		(at 241.3 128.27)
@@ -6940,6 +7625,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 109.22) (xy 176.53 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b1e63d7-da49-4fad-95cc-ec784a8ab4e2")
+	)
+	(wire
+		(pts
 			(xy 271.78 120.65) (xy 274.32 120.65)
 		)
 		(stroke
@@ -7070,6 +7765,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 115.57) (xy 160.02 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fad818f-0082-46dc-ac16-b0fcdef025c6")
+	)
+	(wire
+		(pts
 			(xy 353.06 67.31) (xy 364.49 67.31)
 		)
 		(stroke
@@ -7147,6 +7852,16 @@
 			(type default)
 		)
 		(uuid "2162fea4-1644-49d7-9e76-ddd196b9d112")
+	)
+	(wire
+		(pts
+			(xy 191.77 106.68) (xy 196.85 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21a4fe83-b158-4057-a415-bce83c122a62")
 	)
 	(wire
 		(pts
@@ -7307,6 +8022,16 @@
 			(type default)
 		)
 		(uuid "27ba2be8-1e68-4925-a390-c6de96e3a8b1")
+	)
+	(wire
+		(pts
+			(xy 152.4 111.76) (xy 152.4 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27be0c32-08cd-49f0-83f0-feba89ab1638")
 	)
 	(wire
 		(pts
@@ -7700,6 +8425,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 121.92) (xy 173.99 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33b482db-a82a-4f76-95fd-e1aba70535d2")
+	)
+	(wire
+		(pts
 			(xy 201.93 203.2) (xy 201.93 208.28)
 		)
 		(stroke
@@ -7707,6 +8442,16 @@
 			(type default)
 		)
 		(uuid "33dbbe3b-4c6e-4ad5-a23d-f7076e49b797")
+	)
+	(wire
+		(pts
+			(xy 160.02 100.33) (xy 161.29 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34605d45-182b-40d0-b728-302db0d70538")
 	)
 	(wire
 		(pts
@@ -7897,6 +8642,16 @@
 			(type default)
 		)
 		(uuid "392c2a5a-6d34-4c0f-aa86-ffa7584a79a5")
+	)
+	(wire
+		(pts
+			(xy 353.06 148.59) (xy 363.22 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "397cd8f3-8ab9-49c1-9352-39a33e98ae6b")
 	)
 	(wire
 		(pts
@@ -8240,13 +8995,13 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 128.27) (xy 374.65 128.27)
+			(xy 152.4 111.76) (xy 146.05 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "44be88d9-9d8c-471b-ac62-a7eed12c368b")
+		(uuid "451a0d6f-52c2-4381-8dd7-32963c6b56aa")
 	)
 	(wire
 		(pts
@@ -8320,6 +9075,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 115.57) (xy 172.72 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46f3ecd5-2767-45f1-a1c3-fbe51b995bf3")
+	)
+	(wire
+		(pts
 			(xy 342.9 67.31) (xy 353.06 67.31)
 		)
 		(stroke
@@ -8357,6 +9122,16 @@
 			(type default)
 		)
 		(uuid "495a87c9-026c-4cca-bd8a-3af57e3c6ea0")
+	)
+	(wire
+		(pts
+			(xy 372.11 115.57) (xy 372.11 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a080e14-42bd-407e-b27a-7a2b60cc1235")
 	)
 	(wire
 		(pts
@@ -8457,6 +9232,16 @@
 			(type default)
 		)
 		(uuid "4cad904d-551e-40e8-8cf2-3ea2d2b1a7ca")
+	)
+	(wire
+		(pts
+			(xy 152.4 124.46) (xy 152.4 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ccc9ae3-e9f8-49c4-96e3-30bee7aa7c05")
 	)
 	(wire
 		(pts
@@ -8610,16 +9395,6 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 100.33) (xy 377.19 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "533e760e-91ec-4c2c-95f1-60e4330c8cbf")
-	)
-	(wire
-		(pts
 			(xy 41.91 351.79) (xy 60.96 351.79)
 		)
 		(stroke
@@ -8660,7 +9435,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 120.65) (xy 377.19 120.65)
+			(xy 363.22 140.97) (xy 365.76 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8830,6 +9605,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 115.57) (xy 172.72 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bceee27-2020-4a95-ad62-2eaeed7f800a")
+	)
+	(wire
+		(pts
 			(xy 78.74 26.67) (xy 78.74 39.37)
 		)
 		(stroke
@@ -8950,7 +9735,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 74.93) (xy 382.27 95.25)
+			(xy 382.27 74.93) (xy 382.27 115.57)
 		)
 		(stroke
 			(width 0)
@@ -9100,6 +9885,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 120.65) (xy 377.19 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "656ccf18-bc51-4bb9-ace3-ad7d68e8f369")
+	)
+	(wire
+		(pts
 			(xy 21.59 120.65) (xy 33.02 120.65)
 		)
 		(stroke
@@ -9107,6 +9902,16 @@
 			(type default)
 		)
 		(uuid "6571c69b-53c1-4f8f-bb14-5a1a390a4dad")
+	)
+	(wire
+		(pts
+			(xy 172.72 111.76) (xy 176.53 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "661e20c3-075d-473b-94a3-40685b061602")
 	)
 	(wire
 		(pts
@@ -9490,16 +10295,6 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 95.25) (xy 382.27 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71ab63f3-ce40-43ca-8248-da4b8015cb1d")
-	)
-	(wire
-		(pts
 			(xy 248.92 95.25) (xy 248.92 115.57)
 		)
 		(stroke
@@ -9830,6 +10625,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 111.76) (xy 129.54 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a03f061-24fe-4a76-ac2c-cf81f8c177ab")
+	)
+	(wire
+		(pts
 			(xy 320.04 54.61) (xy 320.04 74.93)
 		)
 		(stroke
@@ -9927,6 +10732,16 @@
 			(type default)
 		)
 		(uuid "7d4a3c28-2d6d-45fd-82d1-b1f4d134739e")
+	)
+	(wire
+		(pts
+			(xy 191.77 111.76) (xy 196.85 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d52fa12-3e9f-44f8-b775-417eb4e2853d")
 	)
 	(wire
 		(pts
@@ -10040,6 +10855,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 100.33) (xy 171.45 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8001170b-29f3-4d59-abd2-4e985277e82a")
+	)
+	(wire
+		(pts
 			(xy 41.91 250.19) (xy 60.96 250.19)
 		)
 		(stroke
@@ -10057,16 +10882,6 @@
 			(type default)
 		)
 		(uuid "80868181-79f0-4c6e-8c20-70d629643c78")
-	)
-	(wire
-		(pts
-			(xy 364.49 107.95) (xy 374.65 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "808cc8a5-69bc-4ba8-aa01-8f82dcf16edb")
 	)
 	(wire
 		(pts
@@ -10230,6 +11045,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 128.27) (xy 374.65 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84fff357-8c31-4098-a17b-db804b514419")
+	)
+	(wire
+		(pts
 			(xy 100.33 382.27) (xy 100.33 387.35)
 		)
 		(stroke
@@ -10237,6 +11062,16 @@
 			(type default)
 		)
 		(uuid "85239e0d-93d3-40ba-ad74-c442ff641164")
+	)
+	(wire
+		(pts
+			(xy 372.11 135.89) (xy 370.84 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85f6880e-d760-4a15-9b3b-f5c3efd33ee9")
 	)
 	(wire
 		(pts
@@ -10420,6 +11255,26 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 106.68) (xy 176.53 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c2b7fda-4756-4c59-940d-3727ad5c9058")
+	)
+	(wire
+		(pts
+			(xy 180.34 95.25) (xy 190.5 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c40ad7f-4924-446a-8991-16697a9be65b")
+	)
+	(wire
+		(pts
 			(xy 353.06 100.33) (xy 355.6 100.33)
 		)
 		(stroke
@@ -10517,6 +11372,16 @@
 			(type default)
 		)
 		(uuid "8f6d610f-3c4c-44c3-abc0-9bbed6959dab")
+	)
+	(wire
+		(pts
+			(xy 160.02 106.68) (xy 151.13 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fc1faa4-e437-4415-9eb2-cd64c275237b")
 	)
 	(wire
 		(pts
@@ -11570,6 +12435,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 100.33) (xy 172.72 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4eb4118-83c8-4f11-866f-ce6f951518bd")
+	)
+	(wire
+		(pts
 			(xy 281.94 39.37) (xy 284.48 39.37)
 		)
 		(stroke
@@ -11667,6 +12542,16 @@
 			(type default)
 		)
 		(uuid "ba3584ec-96ab-42bf-964e-99d66a232547")
+	)
+	(wire
+		(pts
+			(xy 172.72 115.57) (xy 172.72 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbf9dc35-648f-43ef-8fcf-0c0efc59fade")
 	)
 	(wire
 		(pts
@@ -11860,6 +12745,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 111.76) (xy 152.4 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c33e4748-825f-491f-8321-be1fb12e80bc")
+	)
+	(wire
+		(pts
 			(xy 100.33 287.02) (xy 100.33 292.1)
 		)
 		(stroke
@@ -11997,6 +12892,16 @@
 			(type default)
 		)
 		(uuid "c7d06e57-1abb-4f59-8985-84ad58c5fb00")
+	)
+	(wire
+		(pts
+			(xy 151.13 106.68) (xy 146.05 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8008319-dd7e-419d-9c60-7dcb4d3c0523")
 	)
 	(wire
 		(pts
@@ -12180,6 +13085,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 121.92) (xy 191.77 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cca840df-1202-4ef0-aae2-e5ea0d0ea147")
+	)
+	(wire
+		(pts
 			(xy 181.61 287.02) (xy 203.2 287.02)
 		)
 		(stroke
@@ -12330,6 +13245,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 100.33) (xy 151.13 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4ad3b49-f64d-405a-aee3-2c5ca5ead651")
+	)
+	(wire
+		(pts
 			(xy 364.49 67.31) (xy 374.65 67.31)
 		)
 		(stroke
@@ -12337,6 +13262,16 @@
 			(type default)
 		)
 		(uuid "d4c2ff26-4419-493d-ac2f-173b30718ebd")
+	)
+	(wire
+		(pts
+			(xy 160.02 100.33) (xy 160.02 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5a7993b-4275-4138-9451-87037483772e")
 	)
 	(wire
 		(pts
@@ -12497,6 +13432,16 @@
 			(type default)
 		)
 		(uuid "da498be8-1650-46a7-a1d9-71fdceba5137")
+	)
+	(wire
+		(pts
+			(xy 171.45 100.33) (xy 172.72 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da6da2d6-a15c-4424-8b74-850bb534b16b")
 	)
 	(wire
 		(pts
@@ -12817,6 +13762,16 @@
 			(type default)
 		)
 		(uuid "e5a77ce4-096f-4cda-98b3-54c2bc40ab74")
+	)
+	(wire
+		(pts
+			(xy 171.45 100.33) (xy 171.45 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6b9c39d-e5ae-47ef-9483-ba2625437984")
 	)
 	(wire
 		(pts
@@ -13924,6 +14879,28 @@
 			)
 		)
 	)
+	(global_label "Col12"
+		(shape input)
+		(at 196.85 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "42b2d382-950e-44d3-9d32-998a5875ea18")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.3384 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Col3"
 		(shape input)
 		(at 279.4 27.94 90)
@@ -13940,6 +14917,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Encoder A"
+		(shape input)
+		(at 146.05 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "49cf1df7-9520-45ab-a23e-32533347a027")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.4492 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -14082,6 +15081,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Encoder B"
+		(shape input)
+		(at 146.05 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "645fb39d-e656-4077-8936-7aa86a57ddbc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.2678 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -14564,6 +15585,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Row-3"
+		(shape input)
+		(at 196.85 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e3ee249f-6c29-463c-ac8b-dc59c067422e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 206.3666 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -16324,7 +17367,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f7f26b")
-		(property "Reference" "MX1"
+		(property "Reference" "ESC"
 			(at 245.9482 29.8958 0)
 			(effects
 				(font
@@ -16375,7 +17418,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX1")
+					(reference "ESC")
 					(unit 1)
 				)
 			)
@@ -16390,7 +17433,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f7f784")
-		(property "Reference" "MX2"
+		(property "Reference" "F1"
 			(at 256.1082 29.8958 0)
 			(effects
 				(font
@@ -16441,7 +17484,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX2")
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -16456,7 +17499,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f7fb51")
-		(property "Reference" "MX3"
+		(property "Reference" "F2"
 			(at 266.2682 29.8958 0)
 			(effects
 				(font
@@ -16507,7 +17550,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX3")
+					(reference "F2")
 					(unit 1)
 				)
 			)
@@ -16522,7 +17565,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f7fffc")
-		(property "Reference" "MX4"
+		(property "Reference" "F3"
 			(at 276.4282 29.8958 0)
 			(effects
 				(font
@@ -16573,7 +17616,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX4")
+					(reference "F3")
 					(unit 1)
 				)
 			)
@@ -16588,7 +17631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f8049f")
-		(property "Reference" "MX5"
+		(property "Reference" "F4"
 			(at 286.5882 29.8958 0)
 			(effects
 				(font
@@ -16639,7 +17682,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX5")
+					(reference "F4")
 					(unit 1)
 				)
 			)
@@ -16654,7 +17697,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f80ad4")
-		(property "Reference" "MX6"
+		(property "Reference" "F5"
 			(at 296.7482 29.8958 0)
 			(effects
 				(font
@@ -16705,7 +17748,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX6")
+					(reference "F5")
 					(unit 1)
 				)
 			)
@@ -17536,7 +18579,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ff907c")
-		(property "Reference" "MX12"
+		(property "Reference" "MX5"
 			(at 296.7482 50.2158 0)
 			(effects
 				(font
@@ -17587,7 +18630,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX12")
+					(reference "MX5")
 					(unit 1)
 				)
 			)
@@ -17602,7 +18645,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ff9082")
-		(property "Reference" "MX11"
+		(property "Reference" "MX4"
 			(at 286.5882 50.2158 0)
 			(effects
 				(font
@@ -17653,7 +18696,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX11")
+					(reference "MX4")
 					(unit 1)
 				)
 			)
@@ -17668,7 +18711,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ff9088")
-		(property "Reference" "MX10"
+		(property "Reference" "MX3"
 			(at 276.4282 50.2158 0)
 			(effects
 				(font
@@ -17719,7 +18762,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX10")
+					(reference "MX3")
 					(unit 1)
 				)
 			)
@@ -17734,7 +18777,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ff908e")
-		(property "Reference" "MX9"
+		(property "Reference" "MX2"
 			(at 266.2682 50.2158 0)
 			(effects
 				(font
@@ -17785,7 +18828,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX9")
+					(reference "MX2")
 					(unit 1)
 				)
 			)
@@ -17800,7 +18843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ff9094")
-		(property "Reference" "MX8"
+		(property "Reference" "MX1"
 			(at 256.1082 50.2158 0)
 			(effects
 				(font
@@ -17851,7 +18894,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX8")
+					(reference "MX1")
 					(unit 1)
 				)
 			)
@@ -17866,7 +18909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ff909a")
-		(property "Reference" "MX7"
+		(property "Reference" "MXtilde"
 			(at 245.9482 50.2158 0)
 			(effects
 				(font
@@ -17917,7 +18960,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX7")
+					(reference "MXtilde")
 					(unit 1)
 				)
 			)
@@ -18340,7 +19383,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b761")
-		(property "Reference" "MX18"
+		(property "Reference" "MXt"
 			(at 296.7482 70.5358 0)
 			(effects
 				(font
@@ -18391,7 +19434,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX18")
+					(reference "MXt")
 					(unit 1)
 				)
 			)
@@ -18406,7 +19449,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b767")
-		(property "Reference" "MX17"
+		(property "Reference" "MXr"
 			(at 286.5882 70.5358 0)
 			(effects
 				(font
@@ -18457,7 +19500,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX17")
+					(reference "MXr")
 					(unit 1)
 				)
 			)
@@ -18472,7 +19515,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b76d")
-		(property "Reference" "MX16"
+		(property "Reference" "MXe"
 			(at 276.4282 70.5358 0)
 			(effects
 				(font
@@ -18523,7 +19566,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX16")
+					(reference "MXe")
 					(unit 1)
 				)
 			)
@@ -18538,7 +19581,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b773")
-		(property "Reference" "MX15"
+		(property "Reference" "MXw"
 			(at 266.2682 70.5358 0)
 			(effects
 				(font
@@ -18589,7 +19632,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX15")
+					(reference "MXw")
 					(unit 1)
 				)
 			)
@@ -18604,7 +19647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b779")
-		(property "Reference" "MX14"
+		(property "Reference" "MXq"
 			(at 256.1082 70.5358 0)
 			(effects
 				(font
@@ -18655,7 +19698,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX14")
+					(reference "MXq")
 					(unit 1)
 				)
 			)
@@ -18670,7 +19713,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b77f")
-		(property "Reference" "MX13"
+		(property "Reference" "MXtab"
 			(at 245.9482 70.5358 0)
 			(effects
 				(font
@@ -18721,7 +19764,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX13")
+					(reference "MXtab")
 					(unit 1)
 				)
 			)
@@ -19144,7 +20187,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b7ba")
-		(property "Reference" "MX24"
+		(property "Reference" "MXg"
 			(at 296.7482 90.8558 0)
 			(effects
 				(font
@@ -19195,7 +20238,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX24")
+					(reference "MXg")
 					(unit 1)
 				)
 			)
@@ -19210,7 +20253,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b7c0")
-		(property "Reference" "MX23"
+		(property "Reference" "MXf"
 			(at 286.5882 90.8558 0)
 			(effects
 				(font
@@ -19261,7 +20304,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX23")
+					(reference "MXf")
 					(unit 1)
 				)
 			)
@@ -19276,7 +20319,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b7c6")
-		(property "Reference" "MX22"
+		(property "Reference" "MXd"
 			(at 276.4282 90.8558 0)
 			(effects
 				(font
@@ -19327,7 +20370,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX22")
+					(reference "MXd")
 					(unit 1)
 				)
 			)
@@ -19342,7 +20385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b7cc")
-		(property "Reference" "MX21"
+		(property "Reference" "MXs"
 			(at 266.2682 90.8558 0)
 			(effects
 				(font
@@ -19393,7 +20436,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX21")
+					(reference "MXs")
 					(unit 1)
 				)
 			)
@@ -19408,7 +20451,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b7d2")
-		(property "Reference" "MX20"
+		(property "Reference" "MXa"
 			(at 256.1082 90.8558 0)
 			(effects
 				(font
@@ -19459,7 +20502,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX20")
+					(reference "MXa")
 					(unit 1)
 				)
 			)
@@ -19474,7 +20517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006100b7d8")
-		(property "Reference" "MX19"
+		(property "Reference" "MXcaps"
 			(at 245.9482 90.8558 0)
 			(effects
 				(font
@@ -19525,7 +20568,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX19")
+					(reference "MXcaps")
 					(unit 1)
 				)
 			)
@@ -20482,7 +21525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+		(property "Footprint" "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
 			(at 158.75 48.26 0)
 			(effects
 				(font
@@ -21292,7 +22335,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01c986f2-bd70-4845-a197-1c88a08c727d")
-		(property "Reference" "MX49"
+		(property "Reference" "MXp"
 			(at 347.5482 70.5358 0)
 			(effects
 				(font
@@ -21343,7 +22386,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX49")
+					(reference "MXp")
 					(unit 1)
 				)
 			)
@@ -21358,7 +22401,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0359086c-5698-4bd7-880f-89c6ce4218f8")
-		(property "Reference" "MX71"
+		(property "Reference" "MXup"
 			(at 369.1382 111.1758 0)
 			(effects
 				(font
@@ -21409,7 +22452,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX71")
+					(reference "MXup")
 					(unit 1)
 				)
 			)
@@ -21499,7 +22542,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "08ab24b2-5982-4043-a743-56a64a154399")
-		(property "Reference" "MX74"
+		(property "Reference" "MXsuper"
 			(at 256.1082 131.4958 0)
 			(effects
 				(font
@@ -21550,7 +22593,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX74")
+					(reference "MXsuper")
 					(unit 1)
 				)
 			)
@@ -21776,7 +22819,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f1e524a-587b-4858-9ac3-97c13e723002")
-		(property "Reference" "MX32"
+		(property "Reference" "F10"
 			(at 347.5482 29.8958 0)
 			(effects
 				(font
@@ -21827,7 +22870,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX32")
+					(reference "F10")
 					(unit 1)
 				)
 			)
@@ -21971,6 +23014,74 @@
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
 					(reference "D100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 177.8 121.92 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "140d71d7-bc10-4a23-9f3f-8ad79d2d0706")
+		(property "Reference" "R10"
+			(at 177.8 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 177.8 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 123.698 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 177.8 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4f5a56ba-9e1a-4bdf-a796-299e3bc40865")
+		)
+		(pin "1"
+			(uuid "88c31139-9c37-46d5-911f-8e3775bdd9ca")
+		)
+		(instances
+			(project "sentry-keyboard-v1"
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -22481,7 +23592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b5d2937-4b9a-4ac2-83f0-256be2f38b91")
-		(property "Reference" "MX66"
+		(property "Reference" "MXm"
 			(at 317.0682 111.1758 0)
 			(effects
 				(font
@@ -22532,7 +23643,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX66")
+					(reference "MXm")
 					(unit 1)
 				)
 			)
@@ -22615,7 +23726,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 374.65 124.46 90)
+		(at 363.22 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22623,7 +23734,7 @@
 		(dnp no)
 		(uuid "1d81eab7-98c4-4bbc-8f5e-a953be92baaf")
 		(property "Reference" "D72"
-			(at 376.682 123.2916 90)
+			(at 365.252 143.6116 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22632,7 +23743,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 376.682 125.603 90)
+			(at 365.252 145.923 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22641,7 +23752,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 379.095 124.46 0)
+			(at 367.665 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22650,7 +23761,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 374.65 124.46 0)
+			(at 363.22 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22659,7 +23770,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 374.65 124.46 0)
+			(at 363.22 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23187,7 +24298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "238544c7-52a6-4f3e-b6a0-fe8f358145fe")
-		(property "Reference" "MX31"
+		(property "Reference" "F9"
 			(at 337.3882 29.8958 0)
 			(effects
 				(font
@@ -23238,7 +24349,75 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX31")
+					(reference "F9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2529423c-396f-4550-8e99-acb43c26a7ec")
+		(property "Reference" "R6"
+			(at 165.1 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 165.1 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 102.108 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f7244fac-887a-40a8-b9c5-74d90f4b4f12")
+		)
+		(pin "1"
+			(uuid "b045ef82-1f7b-4598-b5dd-52ff8bb83349")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -23456,7 +24635,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "263e3192-816f-415f-a987-3f8cd66f1d26")
-		(property "Reference" "MX68"
+		(property "Reference" "MX."
 			(at 337.3882 111.1758 0)
 			(effects
 				(font
@@ -23507,7 +24686,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX68")
+					(reference "MX.")
 					(unit 1)
 				)
 			)
@@ -23665,7 +24844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30734591-c946-492a-b3e4-bb2f82534f3b")
-		(property "Reference" "MX69"
+		(property "Reference" "MX/"
 			(at 347.5482 111.1758 0)
 			(effects
 				(font
@@ -23716,7 +24895,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX69")
+					(reference "MX/")
 					(unit 1)
 				)
 			)
@@ -23873,6 +25052,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 151.13 96.52 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3370bd58-d2aa-4e00-bd88-968f8536ef0d")
+		(property "Reference" "C9"
+			(at 147.32 97.7901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.01uF"
+			(at 147.32 95.2501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 150.1648 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 151.13 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "55984f51-439e-44ac-b469-fb675b6c10fc")
+		)
+		(pin "1"
+			(uuid "ea4fbf55-92e7-4ff6-a343-f614d55eba79")
+		)
+		(instances
+			(project "sentry-keyboard-v1"
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812")
 		(at 287.02 299.72 0)
 		(unit 1)
@@ -23956,7 +25205,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "346b6033-173b-4ce3-ab90-ee393e8de908")
-		(property "Reference" "MX26"
+		(property "Reference" "MXz"
 			(at 256.1082 111.1758 0)
 			(effects
 				(font
@@ -24007,7 +25256,73 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX26")
+					(reference "MXz")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 152.4 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "346f3cdc-b339-44fa-a59d-15b39291b68d")
+		(property "Reference" "#PWR016"
+			(at 152.4 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 152.4 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0ddbfad9-bbd7-45f0-9690-7e04f91abcc4")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -24097,7 +25412,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35403256-074b-43c1-bbc2-5b1dea478d42")
-		(property "Reference" "MX81"
+		(property "Reference" "MXdown"
 			(at 327.2282 131.4958 0)
 			(effects
 				(font
@@ -24148,7 +25463,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX81")
+					(reference "MXdown")
 					(unit 1)
 				)
 			)
@@ -24163,7 +25478,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "37c46060-ec9f-4e13-a795-b732f29420da")
-		(property "Reference" "MX40"
+		(property "Reference" "MX0"
 			(at 347.5482 50.2158 0)
 			(effects
 				(font
@@ -24214,7 +25529,77 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX40")
+					(reference "MX0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 152.4 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38110da5-3161-431c-b168-a1f3a62fb7f5")
+		(property "Reference" "C8"
+			(at 156.21 119.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.01uF"
+			(at 156.21 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.3652 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 152.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "89108183-e22e-4533-9634-784a7995f7a5")
+		)
+		(pin "1"
+			(uuid "d2156edb-03c0-4b32-bb55-c1fe82bfc181")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -24379,7 +25764,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "39bc17f6-06ed-47c8-abb5-be040c7ca982")
-		(property "Reference" "MX78"
+		(property "Reference" "MXfn"
 			(at 296.7482 131.4958 0)
 			(effects
 				(font
@@ -24430,7 +25815,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX78")
+					(reference "MXfn")
 					(unit 1)
 				)
 			)
@@ -24588,7 +25973,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ab42604-3fbf-44f2-aedb-eec00dc7988f")
-		(property "Reference" "MX42"
+		(property "Reference" "MX+"
 			(at 369.1382 50.2158 0)
 			(effects
 				(font
@@ -24639,7 +26024,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX42")
+					(reference "MX+")
 					(unit 1)
 				)
 			)
@@ -24933,7 +26318,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c87a68e-d48a-4fbd-9c52-af20b789a6b5")
-		(property "Reference" "MX37"
+		(property "Reference" "MX7"
 			(at 317.0682 50.2158 0)
 			(effects
 				(font
@@ -24984,7 +26369,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX37")
+					(reference "MX7")
 					(unit 1)
 				)
 			)
@@ -25074,7 +26459,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e07b586-ee64-48b8-b42e-c06654f3c90d")
-		(property "Reference" "MX29"
+		(property "Reference" "F7"
 			(at 317.0682 29.8958 0)
 			(effects
 				(font
@@ -25125,7 +26510,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX29")
+					(reference "F7")
 					(unit 1)
 				)
 			)
@@ -25425,7 +26810,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44a9e837-cbd7-4895-a26d-1cfdf9f85967")
-		(property "Reference" "MX45"
+		(property "Reference" "MXy"
 			(at 306.9082 70.5358 0)
 			(effects
 				(font
@@ -25476,7 +26861,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX45")
+					(reference "MXy")
 					(unit 1)
 				)
 			)
@@ -25551,6 +26936,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 191.77 121.92 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4807ebeb-f8c1-4e39-9aad-49db10a6209e")
+		(property "Reference" "#PWR015"
+			(at 187.96 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 195.58 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 191.77 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd9eb9b1-b8b6-458c-bad4-eaa37d2b9deb")
+		)
+		(instances
+			(project "sentry-keyboard-v1"
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MX_Alps_Hybrid:MX-NoLED")
 		(at 275.59 137.16 0)
 		(unit 1)
@@ -25559,7 +27011,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b8f5752-f731-4840-a9be-0a6075d2423c")
-		(property "Reference" "MX76"
+		(property "Reference" "MXspace"
 			(at 276.4282 131.4958 0)
 			(effects
 				(font
@@ -25610,7 +27062,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX76")
+					(reference "MXspace")
 					(unit 1)
 				)
 			)
@@ -26061,7 +27513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ae0505d-a3b5-4ac8-81c5-132955c6b5db")
-		(property "Reference" "MX25"
+		(property "Reference" "MXlshift"
 			(at 245.9482 111.1758 0)
 			(effects
 				(font
@@ -26112,7 +27564,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX25")
+					(reference "MXlshift")
 					(unit 1)
 				)
 			)
@@ -26638,7 +28090,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62305b24-c44d-4abc-a468-74896732a43e")
-		(property "Reference" "MX35"
+		(property "Reference" "F13"
 			(at 379.2982 29.8958 0)
 			(effects
 				(font
@@ -26689,7 +28141,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX35")
+					(reference "F13")
 					(unit 1)
 				)
 			)
@@ -26704,7 +28156,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6319d2e9-7411-487f-b259-a0787a6b4ebf")
-		(property "Reference" "MX28"
+		(property "Reference" "F6"
 			(at 306.9082 29.8958 0)
 			(effects
 				(font
@@ -26755,7 +28207,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX28")
+					(reference "F6")
 					(unit 1)
 				)
 			)
@@ -26920,7 +28372,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65ed832a-1736-4c10-a715-5414ced00197")
-		(property "Reference" "MX73"
+		(property "Reference" "MXctrl"
 			(at 245.9482 131.4958 0)
 			(effects
 				(font
@@ -26971,7 +28423,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX73")
+					(reference "MXctrl")
 					(unit 1)
 				)
 			)
@@ -27272,7 +28724,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6d0b27ad-7d07-4c99-bbf3-81ba2c604ecd")
-		(property "Reference" "MX36"
+		(property "Reference" "MX6"
 			(at 306.9082 50.2158 0)
 			(effects
 				(font
@@ -27323,7 +28775,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX36")
+					(reference "MX6")
 					(unit 1)
 				)
 			)
@@ -27473,7 +28925,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6ed7ae0d-00e3-49cb-a9ba-c94078e460d1")
-		(property "Reference" "MX50"
+		(property "Reference" "MX["
 			(at 357.7082 70.5358 0)
 			(effects
 				(font
@@ -27524,7 +28976,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX50")
+					(reference "MX[")
 					(unit 1)
 				)
 			)
@@ -27614,7 +29066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "715044a7-c1f1-4eb1-aa46-b00ec6860036")
-		(property "Reference" "MX41"
+		(property "Reference" "MX-"
 			(at 357.7082 50.2158 0)
 			(effects
 				(font
@@ -27665,7 +29117,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX41")
+					(reference "MX-")
 					(unit 1)
 				)
 			)
@@ -27748,7 +29200,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72ebff52-dd12-4e6f-9876-82acab233a20")
-		(property "Reference" "MX67"
+		(property "Reference" "MX,"
 			(at 327.2282 111.1758 0)
 			(effects
 				(font
@@ -27799,7 +29251,75 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX67")
+					(reference "MX,")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 176.53 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "74351e04-1f61-4f0b-b909-bd024e1338eb")
+		(property "Reference" "R9"
+			(at 176.53 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 176.53 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 97.028 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 176.53 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8c11221c-f1c8-42a8-bba7-9ab348125809")
+		)
+		(pin "1"
+			(uuid "49018f5a-1f36-48e0-a7c7-eeaff47a6dc3")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -27943,6 +29463,83 @@
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
 					(reference "D122")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:RotaryEncoder_Switch")
+		(at 184.15 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76b5a41c-a975-4eb9-97d8-6475d3f725f1")
+		(property "Reference" "SW2"
+			(at 184.15 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RotaryEncoder_Switch"
+			(at 184.15 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 105.156 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 102.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 184.15 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "B"
+			(uuid "e9e4a700-2b8f-4fdb-8303-901161e0a022")
+		)
+		(pin "S2"
+			(uuid "a68a0ac5-63fe-4ace-b98d-23da5157c797")
+		)
+		(pin "C"
+			(uuid "d9f88b9c-5382-466f-a5ca-ff7d2268fcba")
+		)
+		(pin "S1"
+			(uuid "33795e36-5708-45d4-9a30-6ae58579899e")
+		)
+		(pin "A"
+			(uuid "3831a763-1334-4e57-ac85-6673dcfb457e")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -28182,7 +29779,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7accaf21-eded-44c1-9c59-c9c6afe72f04")
-		(property "Reference" "MX63"
+		(property "Reference" "MXv"
 			(at 286.5882 111.1758 0)
 			(effects
 				(font
@@ -28233,7 +29830,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX63")
+					(reference "MXv")
 					(unit 1)
 				)
 			)
@@ -28248,7 +29845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b66b183-4631-43e4-97fc-4d5227673ef0")
-		(property "Reference" "MX59"
+		(property "Reference" "MX'"
 			(at 357.7082 90.8558 0)
 			(effects
 				(font
@@ -28299,7 +29896,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX59")
+					(reference "MX'")
 					(unit 1)
 				)
 			)
@@ -28314,7 +29911,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7bcd86c6-e58f-4704-9c4f-259d88dc8dcc")
-		(property "Reference" "MX52"
+		(property "Reference" "MX\\"
 			(at 379.2982 70.5358 0)
 			(effects
 				(font
@@ -28365,7 +29962,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX52")
+					(reference "MX\\")
 					(unit 1)
 				)
 			)
@@ -28455,7 +30052,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7dd6e4bd-9b5a-4b55-9dd4-aad31aeacf94")
-		(property "Reference" "MX64"
+		(property "Reference" "MXb"
 			(at 296.7482 111.1758 0)
 			(effects
 				(font
@@ -28506,7 +30103,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX64")
+					(reference "MXb")
 					(unit 1)
 				)
 			)
@@ -28596,7 +30193,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81046889-4c5e-4ccc-83fc-d4c1b84d8fd6")
-		(property "Reference" "MX55"
+		(property "Reference" "MXj"
 			(at 317.0682 90.8558 0)
 			(effects
 				(font
@@ -28647,7 +30244,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX55")
+					(reference "MXj")
 					(unit 1)
 				)
 			)
@@ -29383,6 +30980,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 163.83 115.57 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "883a12c4-32d7-41df-9ff6-2b4ee068be9f")
+		(property "Reference" "R7"
+			(at 163.83 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 163.83 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 113.792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 163.83 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "837fb2b0-25f3-4f86-9ad9-58e2be33b130")
+		)
+		(pin "2"
+			(uuid "446ec553-440e-4204-b15a-68766c5158fc")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148W")
 		(at 281.94 124.46 90)
 		(unit 1)
@@ -29684,7 +31349,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d546a71-07d2-4879-a09a-57d3a0a2b2dc")
-		(property "Reference" "MX80"
+		(property "Reference" "MXleft"
 			(at 317.0682 131.4958 0)
 			(effects
 				(font
@@ -29735,7 +31400,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX80")
+					(reference "MXleft")
 					(unit 1)
 				)
 			)
@@ -29893,7 +31558,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ff97ab6-3593-43d1-b61a-1f45d2a3e1ac")
-		(property "Reference" "MX27"
+		(property "Reference" "MXx"
 			(at 266.2682 111.1758 0)
 			(effects
 				(font
@@ -29944,7 +31609,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX27")
+					(reference "MXx")
 					(unit 1)
 				)
 			)
@@ -29959,7 +31624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9061f42b-20b4-403a-919a-bde26b2d3b01")
-		(property "Reference" "MX79"
+		(property "Reference" "MXrctrl"
 			(at 306.9082 131.4958 0)
 			(effects
 				(font
@@ -30010,7 +31675,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX79")
+					(reference "MXrctrl")
 					(unit 1)
 				)
 			)
@@ -30438,6 +32103,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 129.54 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9ccd38d3-7ea4-4006-a036-c875ffcce040")
+		(property "Reference" "#PWR013"
+			(at 129.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 129.54 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 129.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e512731-df56-4ea8-bfd2-f435f4bd164d")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148W")
 		(at 312.42 124.46 90)
 		(unit 1)
@@ -30581,7 +32312,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3b50a57-72b0-435b-8dda-fde9c5633df3")
-		(property "Reference" "MX54"
+		(property "Reference" "MXh"
 			(at 306.9082 90.8558 0)
 			(effects
 				(font
@@ -30632,7 +32363,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX54")
+					(reference "MXh")
 					(unit 1)
 				)
 			)
@@ -30647,7 +32378,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3cf4fe6-df59-480c-95ee-72a07db5f423")
-		(property "Reference" "MX60"
+		(property "Reference" "MXenter"
 			(at 369.1382 90.8558 0)
 			(effects
 				(font
@@ -30698,7 +32429,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX60")
+					(reference "MXenter")
 					(unit 1)
 				)
 			)
@@ -30788,7 +32519,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5e1914d-aa67-4219-8e5e-34bda7512cda")
-		(property "Reference" "MX43"
+		(property "Reference" "MXbksp"
 			(at 379.2982 50.2158 0)
 			(effects
 				(font
@@ -30839,7 +32570,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX43")
+					(reference "MXbksp")
 					(unit 1)
 				)
 			)
@@ -31065,7 +32796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a799794b-c9c9-4d65-a6e0-2b6f5a8e309f")
-		(property "Reference" "MX38"
+		(property "Reference" "MX8"
 			(at 327.2282 50.2158 0)
 			(effects
 				(font
@@ -31116,7 +32847,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX38")
+					(reference "MX8")
 					(unit 1)
 				)
 			)
@@ -31567,7 +33298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b13d465e-d5e7-4880-a912-5243d7b71bab")
-		(property "Reference" "MX47"
+		(property "Reference" "MXi"
 			(at 327.2282 70.5358 0)
 			(effects
 				(font
@@ -31618,7 +33349,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX47")
+					(reference "MXi")
 					(unit 1)
 				)
 			)
@@ -32001,7 +33732,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6bedb09-f6ca-4cac-919a-5aa0da49ecc1")
-		(property "Reference" "MX58"
+		(property "Reference" "MX;"
 			(at 347.5482 90.8558 0)
 			(effects
 				(font
@@ -32052,7 +33783,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX58")
+					(reference "MX;")
 					(unit 1)
 				)
 			)
@@ -32067,7 +33798,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7e13b2a-fa7b-4f60-9061-0fae32074095")
-		(property "Reference" "MX44"
+		(property "Reference" "MXhome"
 			(at 347.5482 131.4958 0)
 			(effects
 				(font
@@ -32118,7 +33849,74 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX44")
+					(reference "MXhome")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 190.5 95.25 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "baa9b271-5a65-45d1-b1c4-1d888e07cf5b")
+		(property "Reference" "#PWR014"
+			(at 186.69 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 194.31 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 190.5 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 190.5 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce0cc4e2-b660-4a44-a842-527461f94250")
+		)
+		(instances
+			(project ""
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -32201,7 +33999,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc54ec37-d7eb-4aae-958b-7ce692ba2eda")
-		(property "Reference" "MX62"
+		(property "Reference" "MXc"
 			(at 276.4282 111.1758 0)
 			(effects
 				(font
@@ -32252,7 +34050,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX62")
+					(reference "MXc")
 					(unit 1)
 				)
 			)
@@ -32267,7 +34065,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc8b592d-ee8f-4ede-af8a-e3db53bcd221")
-		(property "Reference" "MX57"
+		(property "Reference" "MXl"
 			(at 337.3882 90.8558 0)
 			(effects
 				(font
@@ -32318,7 +34116,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX57")
+					(reference "MXl")
 					(unit 1)
 				)
 			)
@@ -32475,7 +34273,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be5220fc-4f97-4488-aa3d-d6189ec3653c")
-		(property "Reference" "MX30"
+		(property "Reference" "F8"
 			(at 327.2282 29.8958 0)
 			(effects
 				(font
@@ -32526,7 +34324,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX30")
+					(reference "F8")
 					(unit 1)
 				)
 			)
@@ -32609,7 +34407,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bfcbfa9a-505f-4003-a30d-5ddc9baae990")
-		(property "Reference" "MX48"
+		(property "Reference" "MXo"
 			(at 337.3882 70.5358 0)
 			(effects
 				(font
@@ -32660,7 +34458,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX48")
+					(reference "MXo")
 					(unit 1)
 				)
 			)
@@ -32675,7 +34473,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bfd3ae5c-2531-43ab-b0ae-5cc0fb4c80cd")
-		(property "Reference" "MX39"
+		(property "Reference" "MX9"
 			(at 337.3882 50.2158 0)
 			(effects
 				(font
@@ -32726,7 +34524,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX39")
+					(reference "MX9")
 					(unit 1)
 				)
 			)
@@ -32741,7 +34539,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0147c78-e2bb-4369-8153-a9f6edaac3e9")
-		(property "Reference" "MX75"
+		(property "Reference" "MXalt"
 			(at 266.2682 131.4958 0)
 			(effects
 				(font
@@ -32792,7 +34590,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX75")
+					(reference "MXalt")
 					(unit 1)
 				)
 			)
@@ -33017,7 +34815,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3631943-fe17-454e-a51b-4dd7b8c83304")
-		(property "Reference" "MX53"
+		(property "Reference" "MXend"
 			(at 357.7082 131.4958 0)
 			(effects
 				(font
@@ -33068,7 +34866,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX53")
+					(reference "MXend")
 					(unit 1)
 				)
 			)
@@ -33722,7 +35520,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb188164-649a-4373-a10f-211361c60c18")
-		(property "Reference" "MX46"
+		(property "Reference" "MXu"
 			(at 317.0682 70.5358 0)
 			(effects
 				(font
@@ -33773,7 +35571,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX46")
+					(reference "MXu")
 					(unit 1)
 				)
 			)
@@ -34142,15 +35940,15 @@
 	)
 	(symbol
 		(lib_id "MX_Alps_Hybrid:MX-NoLED")
-		(at 378.46 96.52 0)
+		(at 378.46 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d46eed1e-bb6e-43e4-bc56-340aa7100c5e")
-		(property "Reference" "MX61"
-			(at 379.2982 90.8558 0)
+		(property "Reference" "MXpgup"
+			(at 379.2982 111.1758 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34158,7 +35956,7 @@
 			)
 		)
 		(property "Value" "K0_5"
-			(at 379.2982 92.7354 0)
+			(at 379.2982 113.0554 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -34166,7 +35964,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
-			(at 362.585 97.155 0)
+			(at 362.585 117.475 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34175,7 +35973,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 362.585 97.155 0)
+			(at 362.585 117.475 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34184,7 +35982,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 378.46 96.52 0)
+			(at 378.46 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34200,7 +35998,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX61")
+					(reference "MXpgup")
 					(unit 1)
 				)
 			)
@@ -34215,7 +36013,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d53f062d-d52b-4652-a861-47ec2fdbdc0f")
-		(property "Reference" "MX82"
+		(property "Reference" "MXright"
 			(at 337.3882 131.4958 0)
 			(effects
 				(font
@@ -34266,7 +36064,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX82")
+					(reference "MXright")
 					(unit 1)
 				)
 			)
@@ -34349,7 +36147,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d63abba6-9e24-4cbc-8073-344eee8353af")
-		(property "Reference" "MX77"
+		(property "Reference" "MXralt"
 			(at 286.5882 131.4958 0)
 			(effects
 				(font
@@ -34400,7 +36198,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX77")
+					(reference "MXralt")
 					(unit 1)
 				)
 			)
@@ -34633,7 +36431,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8bc9363-ca70-44fd-a433-185188d7824e")
-		(property "Reference" "MX51"
+		(property "Reference" "MX]"
 			(at 369.1382 70.5358 0)
 			(effects
 				(font
@@ -34684,7 +36482,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX51")
+					(reference "MX]")
 					(unit 1)
 				)
 			)
@@ -34699,7 +36497,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d984683c-3a8c-4e78-a8de-0deb9602de95")
-		(property "Reference" "MX56"
+		(property "Reference" "MXk"
 			(at 327.2282 90.8558 0)
 			(effects
 				(font
@@ -34750,7 +36548,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX56")
+					(reference "MXk")
 					(unit 1)
 				)
 			)
@@ -34765,7 +36563,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc291d34-a80c-4c6d-9963-a1596ceb6c1e")
-		(property "Reference" "MX33"
+		(property "Reference" "F11"
 			(at 357.7082 29.8958 0)
 			(effects
 				(font
@@ -34816,7 +36614,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX33")
+					(reference "F11")
 					(unit 1)
 				)
 			)
@@ -35040,7 +36838,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e768ca4d-bf37-4794-8168-44447455fe2d")
-		(property "Reference" "MX65"
+		(property "Reference" "MXn"
 			(at 306.9082 111.1758 0)
 			(effects
 				(font
@@ -35091,7 +36889,73 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX65")
+					(reference "MXn")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 151.13 91.44 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7e372d2-2231-459d-83f4-9f75591a8054")
+		(property "Reference" "#PWR017"
+			(at 151.13 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 151.13 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 151.13 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "597dcab2-970d-44dc-b8f3-78463cf3a756")
+		)
+		(instances
+			(project "sentry-keyboard-v1"
+				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -35167,15 +37031,15 @@
 	)
 	(symbol
 		(lib_id "MX_Alps_Hybrid:MX-NoLED")
-		(at 378.46 116.84 0)
+		(at 367.03 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "eafa97ba-8868-47e6-8002-761b72d6aaab")
-		(property "Reference" "MX72"
-			(at 379.2982 111.1758 0)
+		(property "Reference" "MXpgdn"
+			(at 367.8682 131.4958 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -35183,7 +37047,7 @@
 			)
 		)
 		(property "Value" "K0_5"
-			(at 379.2982 113.0554 0)
+			(at 367.8682 133.3754 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -35191,7 +37055,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
-			(at 362.585 117.475 0)
+			(at 351.155 137.795 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -35200,7 +37064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 362.585 117.475 0)
+			(at 351.155 137.795 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -35209,7 +37073,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 378.46 116.84 0)
+			(at 367.03 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35225,7 +37089,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX72")
+					(reference "MXpgdn")
 					(unit 1)
 				)
 			)
@@ -35240,7 +37104,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee3b3f8f-e3c2-4393-b543-0f5f2e1f1747")
-		(property "Reference" "MX34"
+		(property "Reference" "F12"
 			(at 369.1382 29.8958 0)
 			(effects
 				(font
@@ -35291,7 +37155,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX34")
+					(reference "F12")
 					(unit 1)
 				)
 			)
@@ -35599,7 +37463,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f7691898-7c81-4958-bfc3-593e9d9581c4")
-		(property "Reference" "MX70"
+		(property "Reference" "MXrshift"
 			(at 357.7082 111.1758 0)
 			(effects
 				(font
@@ -35650,7 +37514,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MX70")
+					(reference "MXrshift")
 					(unit 1)
 				)
 			)
@@ -35658,7 +37522,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 374.65 104.14 90)
+		(at 374.65 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35666,7 +37530,7 @@
 		(dnp no)
 		(uuid "f80af466-b80c-40b7-aad6-87aa01f2de55")
 		(property "Reference" "D61"
-			(at 376.682 102.9716 90)
+			(at 376.682 123.2916 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35675,7 +37539,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 376.682 105.283 90)
+			(at 376.682 125.603 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35684,7 +37548,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 379.095 104.14 0)
+			(at 379.095 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35693,7 +37557,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 374.65 104.14 0)
+			(at 374.65 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35702,7 +37566,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 374.65 104.14 0)
+			(at 374.65 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
