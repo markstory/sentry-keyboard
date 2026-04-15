@@ -17085,7 +17085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:SW_SPST_TL3342"
+		(property "Footprint" "Keebio:SW_SPST_TL3342"
 			(at 58.42 40.64 0)
 			(effects
 				(font
@@ -21287,7 +21287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:SOT-143B"
+		(property "Footprint" "Keebio:SOT-143B"
 			(at 184.15 68.58 0)
 			(effects
 				(font
@@ -22447,7 +22447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 41.91 203.2 0)
 			(effects
 				(font
@@ -22588,7 +22588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 60.96 203.2 0)
 			(effects
 				(font
@@ -22933,7 +22933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 101.6 236.22 0)
 			(effects
 				(font
@@ -23076,7 +23076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 226.06 270.51 0)
 			(effects
 				(font
@@ -23151,7 +23151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 308.61 307.34 0)
 			(effects
 				(font
@@ -23430,7 +23430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 267.97 346.71 0)
 			(effects
 				(font
@@ -23638,7 +23638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 204.47 307.34 0)
 			(effects
 				(font
@@ -23781,7 +23781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 81.28 307.34 0)
 			(effects
 				(font
@@ -23924,7 +23924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 203.2 203.2 0)
 			(effects
 				(font
@@ -24203,7 +24203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 247.65 236.22 0)
 			(effects
 				(font
@@ -24749,7 +24749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 288.29 346.71 0)
 			(effects
 				(font
@@ -24890,7 +24890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 246.38 203.2 0)
 			(effects
 				(font
@@ -24965,7 +24965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 267.97 307.34 0)
 			(effects
 				(font
@@ -25110,7 +25110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 288.29 307.34 0)
 			(effects
 				(font
@@ -25317,7 +25317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 62.23 270.51 0)
 			(effects
 				(font
@@ -25594,7 +25594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 247.65 307.34 0)
 			(effects
 				(font
@@ -25669,7 +25669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 226.06 346.71 0)
 			(effects
 				(font
@@ -25810,7 +25810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 121.92 307.34 0)
 			(effects
 				(font
@@ -26087,7 +26087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 81.28 270.51 0)
 			(effects
 				(font
@@ -26364,7 +26364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 308.61 346.71 0)
 			(effects
 				(font
@@ -26573,7 +26573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 121.92 382.27 0)
 			(effects
 				(font
@@ -26648,7 +26648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 267.97 382.27 0)
 			(effects
 				(font
@@ -26991,7 +26991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
 			(at 259.715 137.795 0)
 			(effects
 				(font
@@ -27057,7 +27057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 121.92 346.71 0)
 			(effects
 				(font
@@ -27132,7 +27132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 226.06 307.34 0)
 			(effects
 				(font
@@ -27207,7 +27207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 43.18 307.34 0)
 			(effects
 				(font
@@ -27418,7 +27418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 226.06 382.27 0)
 			(effects
 				(font
@@ -27493,7 +27493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 229.235 117.475 0)
 			(effects
 				(font
@@ -27559,7 +27559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 62.23 346.71 0)
 			(effects
 				(font
@@ -27702,7 +27702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 140.97 346.71 0)
 			(effects
 				(font
@@ -27777,7 +27777,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 161.29 307.34 0)
 			(effects
 				(font
@@ -27920,7 +27920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 161.29 382.27 0)
 			(effects
 				(font
@@ -27995,7 +27995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 308.61 236.22 0)
 			(effects
 				(font
@@ -28202,7 +28202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 62.23 236.22 0)
 			(effects
 				(font
@@ -28277,7 +28277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 101.6 307.34 0)
 			(effects
 				(font
@@ -28418,7 +28418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 204.47 236.22 0)
 			(effects
 				(font
@@ -28561,7 +28561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 182.88 346.71 0)
 			(effects
 				(font
@@ -28971,7 +28971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 267.97 236.22 0)
 			(effects
 				(font
@@ -29382,7 +29382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 267.97 270.51 0)
 			(effects
 				(font
@@ -29458,7 +29458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles"
+		(property "Footprint" "Keebio:RotaryEncoder_EC11"
 			(at 180.34 105.156 0)
 			(effects
 				(font
@@ -29534,7 +29534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 81.28 382.27 0)
 			(effects
 				(font
@@ -29609,7 +29609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 101.6 382.27 0)
 			(effects
 				(font
@@ -29684,7 +29684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 120.65 203.2 0)
 			(effects
 				(font
@@ -29957,7 +29957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 43.18 346.71 0)
 			(effects
 				(font
@@ -30098,7 +30098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 308.61 270.51 0)
 			(effects
 				(font
@@ -30239,7 +30239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 247.65 270.51 0)
 			(effects
 				(font
@@ -30314,7 +30314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 288.29 236.22 0)
 			(effects
 				(font
@@ -30389,7 +30389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 101.6 270.51 0)
 			(effects
 				(font
@@ -30464,7 +30464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 81.28 236.22 0)
 			(effects
 				(font
@@ -30539,7 +30539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 226.06 236.22 0)
 			(effects
 				(font
@@ -30614,7 +30614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 62.23 307.34 0)
 			(effects
 				(font
@@ -30825,7 +30825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 80.01 203.2 0)
 			(effects
 				(font
@@ -31104,7 +31104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 139.7 203.2 0)
 			(effects
 				(font
@@ -31179,7 +31179,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 140.97 307.34 0)
 			(effects
 				(font
@@ -31254,7 +31254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 43.18 236.22 0)
 			(effects
 				(font
@@ -31463,7 +31463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 307.34 203.2 0)
 			(effects
 				(font
@@ -31670,7 +31670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 181.61 203.2 0)
 			(effects
 				(font
@@ -31745,7 +31745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 287.02 203.2 0)
 			(effects
 				(font
@@ -32424,7 +32424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 288.29 270.51 0)
 			(effects
 				(font
@@ -32633,7 +32633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 81.28 346.71 0)
 			(effects
 				(font
@@ -32842,7 +32842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 43.18 270.51 0)
 			(effects
 				(font
@@ -32917,7 +32917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 182.88 236.22 0)
 			(effects
 				(font
@@ -32992,7 +32992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 100.33 203.2 0)
 			(effects
 				(font
@@ -33135,7 +33135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 43.18 382.27 0)
 			(effects
 				(font
@@ -33344,7 +33344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 182.88 382.27 0)
 			(effects
 				(font
@@ -33419,7 +33419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 204.47 346.71 0)
 			(effects
 				(font
@@ -33562,7 +33562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 161.29 346.71 0)
 			(effects
 				(font
@@ -33637,7 +33637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 266.7 203.2 0)
 			(effects
 				(font
@@ -34111,7 +34111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 247.65 346.71 0)
 			(effects
 				(font
@@ -34652,7 +34652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 121.92 270.51 0)
 			(effects
 				(font
@@ -34929,7 +34929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 182.88 307.34 0)
 			(effects
 				(font
@@ -35139,7 +35139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 101.6 346.71 0)
 			(effects
 				(font
@@ -35214,7 +35214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 160.02 203.2 0)
 			(effects
 				(font
@@ -35357,7 +35357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 121.92 236.22 0)
 			(effects
 				(font
@@ -35566,7 +35566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 140.97 270.51 0)
 			(effects
 				(font
@@ -35641,7 +35641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 204.47 382.27 0)
 			(effects
 				(font
@@ -35784,7 +35784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 140.97 236.22 0)
 			(effects
 				(font
@@ -36193,7 +36193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 182.88 270.51 0)
 			(effects
 				(font
@@ -36268,7 +36268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 140.97 382.27 0)
 			(effects
 				(font
@@ -36676,7 +36676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 204.47 270.51 0)
 			(effects
 				(font
@@ -37150,7 +37150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 62.23 382.27 0)
 			(effects
 				(font
@@ -37225,7 +37225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 161.29 236.22 0)
 			(effects
 				(font
@@ -37368,7 +37368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 224.79 203.2 0)
 			(effects
 				(font
@@ -37577,7 +37577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 247.65 382.27 0)
 			(effects
 				(font
@@ -37652,7 +37652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "Keebio:SK6812-MINI-E"
 			(at 161.29 270.51 0)
 			(effects
 				(font
