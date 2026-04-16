@@ -14599,7 +14599,7 @@
 			)
 		)
 	)
-	(global_label "Row2-L"
+	(global_label "Row1"
 		(shape input)
 		(at 41.91 35.56 0)
 		(effects
@@ -14927,7 +14927,7 @@
 			)
 		)
 	)
-	(global_label "Col1"
+	(global_label "Row2"
 		(shape input)
 		(at 41.91 33.02 0)
 		(effects
@@ -14947,7 +14947,7 @@
 			)
 		)
 	)
-	(global_label "Col0"
+	(global_label "Row3"
 		(shape input)
 		(at 41.91 30.48 0)
 		(effects
@@ -17347,7 +17347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 229.235 36.195 0)
 			(effects
 				(font
@@ -17397,7 +17397,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f7f784")
-		(property "Reference" "F1-1"
+		(property "Reference" "F1"
 			(at 256.1082 29.8958 0)
 			(effects
 				(font
@@ -17413,7 +17413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 239.395 36.195 0)
 			(effects
 				(font
@@ -17448,7 +17448,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "F1-1")
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -17479,7 +17479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 249.555 36.195 0)
 			(effects
 				(font
@@ -17545,7 +17545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 259.715 36.195 0)
 			(effects
 				(font
@@ -17611,7 +17611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 269.875 36.195 0)
 			(effects
 				(font
@@ -17677,7 +17677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 280.035 36.195 0)
 			(effects
 				(font
@@ -18559,7 +18559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 280.035 56.515 0)
 			(effects
 				(font
@@ -18625,7 +18625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 269.875 56.515 0)
 			(effects
 				(font
@@ -18691,7 +18691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 259.715 56.515 0)
 			(effects
 				(font
@@ -18757,7 +18757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 249.555 56.515 0)
 			(effects
 				(font
@@ -18823,7 +18823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 239.395 56.515 0)
 			(effects
 				(font
@@ -18889,7 +18889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 229.235 56.515 0)
 			(effects
 				(font
@@ -19363,7 +19363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 280.035 76.835 0)
 			(effects
 				(font
@@ -19429,7 +19429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 269.875 76.835 0)
 			(effects
 				(font
@@ -19495,7 +19495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 259.715 76.835 0)
 			(effects
 				(font
@@ -19561,7 +19561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 249.555 76.835 0)
 			(effects
 				(font
@@ -19627,7 +19627,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 239.395 76.835 0)
 			(effects
 				(font
@@ -19693,7 +19693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.5U"
 			(at 229.235 76.835 0)
 			(effects
 				(font
@@ -20167,7 +20167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 280.035 97.155 0)
 			(effects
 				(font
@@ -20233,7 +20233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 269.875 97.155 0)
 			(effects
 				(font
@@ -20299,7 +20299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 259.715 97.155 0)
 			(effects
 				(font
@@ -20365,7 +20365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 249.555 97.155 0)
 			(effects
 				(font
@@ -20431,7 +20431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 239.395 97.155 0)
 			(effects
 				(font
@@ -20497,7 +20497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.75U"
 			(at 229.235 97.155 0)
 			(effects
 				(font
@@ -21584,7 +21584,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061be2113")
-		(property "Reference" "F1"
+		(property "Reference" "FU1"
 			(at 184.15 27.813 90)
 			(effects
 				(font
@@ -21636,7 +21636,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "F1")
+					(reference "FU1")
 					(unit 1)
 				)
 			)
@@ -22315,7 +22315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 330.835 76.835 0)
 			(effects
 				(font
@@ -22381,7 +22381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 352.425 117.475 0)
 			(effects
 				(font
@@ -22457,7 +22457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5149201.html"
 			(at 43.18 205.105 0)
 			(effects
 				(font
@@ -22522,7 +22522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.25U"
 			(at 239.395 137.795 0)
 			(effects
 				(font
@@ -22799,7 +22799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 330.835 36.195 0)
 			(effects
 				(font
@@ -23572,7 +23572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 300.355 117.475 0)
 			(effects
 				(font
@@ -24278,7 +24278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 320.675 36.195 0)
 			(effects
 				(font
@@ -24615,7 +24615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 320.675 117.475 0)
 			(effects
 				(font
@@ -24824,7 +24824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 330.835 117.475 0)
 			(effects
 				(font
@@ -25185,7 +25185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 239.395 117.475 0)
 			(effects
 				(font
@@ -25392,7 +25392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 310.515 137.795 0)
 			(effects
 				(font
@@ -25458,7 +25458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 330.835 56.515 0)
 			(effects
 				(font
@@ -25744,7 +25744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 280.035 137.795 0)
 			(effects
 				(font
@@ -25953,7 +25953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 352.425 56.515 0)
 			(effects
 				(font
@@ -26298,7 +26298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 300.355 56.515 0)
 			(effects
 				(font
@@ -26439,7 +26439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 300.355 36.195 0)
 			(effects
 				(font
@@ -26790,7 +26790,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 290.195 76.835 0)
 			(effects
 				(font
@@ -26991,7 +26991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-6.25U"
 			(at 259.715 137.795 0)
 			(effects
 				(font
@@ -27493,7 +27493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2U"
 			(at 229.235 117.475 0)
 			(effects
 				(font
@@ -28070,7 +28070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 362.585 36.195 0)
 			(effects
 				(font
@@ -28136,7 +28136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 290.195 36.195 0)
 			(effects
 				(font
@@ -28352,7 +28352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.25U"
 			(at 229.235 137.795 0)
 			(effects
 				(font
@@ -28704,7 +28704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 290.195 56.515 0)
 			(effects
 				(font
@@ -28905,7 +28905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 340.995 76.835 0)
 			(effects
 				(font
@@ -29046,7 +29046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 340.995 56.515 0)
 			(effects
 				(font
@@ -29180,7 +29180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 310.515 117.475 0)
 			(effects
 				(font
@@ -29759,7 +29759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 269.875 117.475 0)
 			(effects
 				(font
@@ -29825,7 +29825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 340.995 97.155 0)
 			(effects
 				(font
@@ -29891,7 +29891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 362.585 76.835 0)
 			(effects
 				(font
@@ -30032,7 +30032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 280.035 117.475 0)
 			(effects
 				(font
@@ -30173,7 +30173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 300.355 97.155 0)
 			(effects
 				(font
@@ -31329,7 +31329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 300.355 137.795 0)
 			(effects
 				(font
@@ -31538,7 +31538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 249.555 117.475 0)
 			(effects
 				(font
@@ -31604,7 +31604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.25U"
 			(at 290.195 137.795 0)
 			(effects
 				(font
@@ -32292,7 +32292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 290.195 97.155 0)
 			(effects
 				(font
@@ -32358,7 +32358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.5U"
 			(at 352.425 97.155 0)
 			(effects
 				(font
@@ -32499,7 +32499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2U"
 			(at 362.585 56.515 0)
 			(effects
 				(font
@@ -32776,7 +32776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 310.515 56.515 0)
 			(effects
 				(font
@@ -33278,7 +33278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 310.515 76.835 0)
 			(effects
 				(font
@@ -33712,7 +33712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 330.835 97.155 0)
 			(effects
 				(font
@@ -33778,7 +33778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 330.835 137.795 0)
 			(effects
 				(font
@@ -33979,7 +33979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 259.715 117.475 0)
 			(effects
 				(font
@@ -34045,7 +34045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 320.675 97.155 0)
 			(effects
 				(font
@@ -34253,7 +34253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 310.515 36.195 0)
 			(effects
 				(font
@@ -34387,7 +34387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 320.675 76.835 0)
 			(effects
 				(font
@@ -34453,7 +34453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 320.675 56.515 0)
 			(effects
 				(font
@@ -34519,7 +34519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.25U"
 			(at 249.555 137.795 0)
 			(effects
 				(font
@@ -34795,7 +34795,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 340.995 137.795 0)
 			(effects
 				(font
@@ -35500,7 +35500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 300.355 76.835 0)
 			(effects
 				(font
@@ -35927,7 +35927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 362.585 117.475 0)
 			(effects
 				(font
@@ -35993,7 +35993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 320.675 137.795 0)
 			(effects
 				(font
@@ -36127,7 +36127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.25U"
 			(at 269.875 137.795 0)
 			(effects
 				(font
@@ -36411,7 +36411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 352.425 76.835 0)
 			(effects
 				(font
@@ -36477,7 +36477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 310.515 97.155 0)
 			(effects
 				(font
@@ -36543,7 +36543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 340.995 36.195 0)
 			(effects
 				(font
@@ -36818,7 +36818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 290.195 117.475 0)
 			(effects
 				(font
@@ -37018,7 +37018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 351.155 137.795 0)
 			(effects
 				(font
@@ -37084,7 +37084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 352.425 36.195 0)
 			(effects
 				(font
@@ -37443,7 +37443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:MX-Alps-Choc-1U-NoLED"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.75U"
 			(at 340.995 117.475 0)
 			(effects
 				(font
