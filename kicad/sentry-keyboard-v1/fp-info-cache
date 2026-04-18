@@ -1,4 +1,4 @@
-27727102514734828
+27728879053028562
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71707,6 +71707,13 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 2
 2
+Keebio
+Reset_Pretty-Mask
+
+
+0
+6
+6
 Keebio
 Resistor
 

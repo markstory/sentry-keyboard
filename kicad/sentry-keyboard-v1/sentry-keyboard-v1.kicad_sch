@@ -20679,7 +20679,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:Reset_Pretty-Mask"
+		(property "Footprint" "Keebio:Reset_Pretty-Mask"
 			(at 21.59 34.29 90)
 			(effects
 				(font
