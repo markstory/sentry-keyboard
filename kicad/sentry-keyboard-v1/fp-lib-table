@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Keebio")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "Kaihl hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_Hotswap.pretty")(options "")(descr ""))
-)
