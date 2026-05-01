@@ -4073,7 +4073,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "115649af-0097-4e50-befb-429f6e4dabfd")
-		(at 501.384 182.3551)
+		(at 148.5 135)
 		(property "Reference" "MXr1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -5528,7 +5528,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "1494b2fa-b772-4cb0-affd-eaedcb8fa4bd")
-		(at 531 209.5)
+		(at 120.08 173)
 		(property "Reference" "MXx1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -7753,7 +7753,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-2U"
 		(layer "F.Cu")
 		(uuid "19da20d3-fb2d-4e53-8d05-ef556e1b9df7")
-		(at 71.54 169.58)
+		(at 71.54 171.5)
 		(property "Reference" "MXlshift1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -9709,7 +9709,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.75U"
 		(layer "F.Cu")
 		(uuid "1e09ed54-4a2b-4833-b7ab-cd095fbe65f5")
-		(at 307.08 169.5)
+		(at 309.58 173)
 		(property "Reference" "MXrshift1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -10107,7 +10107,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "1f14247a-56bf-4bfb-b1f9-8af4147ff284")
-		(at 458 104.5)
+		(at 268.08 154.5)
 		(property "Reference" "MX;1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -10646,7 +10646,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "21622494-0a32-4ad9-9df1-29394bd2f09e")
-		(at 285 119)
+		(at 254.342 173.08)
 		(property "Reference" "MX.1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -11843,7 +11843,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "22167dcb-8c5a-419b-b51d-ba283cc1124c")
-		(at 484.607 172.2977)
+		(at 191.08 153.5)
 		(property "Reference" "MXh1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -15510,7 +15510,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "3399e5a9-8f79-4631-9cbe-58fc404c26a7")
-		(at 501.384 172.2977)
+		(at 91.5 134.5)
 		(property "Reference" "MXq1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -16586,10 +16586,10 @@
 			)
 		)
 	)
-	(footprint "Kaihl hotswap:MX-Hotswap-1U"
+	(footprint "Kaihl hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "360da060-93d0-4209-bb8b-4e7b462474fb")
-		(at 267.08 161)
+		(at 325.5 135.5)
 		(property "Reference" "MX\\1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -16645,14 +16645,14 @@
 		(sheetfile "sentry-keyboard-v1.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -9.525 9.525)
-			(end -9.525 -9.525)
+			(start -11.90625 9.525)
+			(end -11.90625 -9.525)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "78ab3ae4-48b4-460d-9e90-ad9f215a8429")
+			(uuid "5fd8a577-8d91-4745-8750-dcb4aa1aa6d9")
 		)
 		(fp_line
 			(start -7 -7)
@@ -16662,7 +16662,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "51b1b0d8-5ad5-4e4f-a653-aa9eec025f84")
+			(uuid "2c721145-0089-4242-b613-5ed2c65bbb03")
 		)
 		(fp_line
 			(start -7 -5)
@@ -16672,7 +16672,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a0f474a9-2481-4595-82dd-8036cfe2c06b")
+			(uuid "8d012360-2821-4df2-b317-74e99e75fba8")
 		)
 		(fp_line
 			(start -7 5)
@@ -16682,7 +16682,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6a63e89e-5587-4979-9ad8-ca2a550b3a6f")
+			(uuid "7daa5c09-f904-49b7-92bb-11f793f8553e")
 		)
 		(fp_line
 			(start -7 7)
@@ -16692,7 +16692,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "062670df-93b6-433c-8aa6-688b0146d304")
+			(uuid "b36e2f75-e7cc-4ad8-9bfc-2715cde88902")
 		)
 		(fp_line
 			(start 5 7)
@@ -16702,7 +16702,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "2cc42f1c-3c34-45a3-a17e-825ba9e73efe")
+			(uuid "d4ba946e-6c4b-4991-9b52-724fc773103b")
 		)
 		(fp_line
 			(start 7 -7)
@@ -16712,7 +16712,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "64eb8c43-5866-4d58-854e-4f0c1ec0a377")
+			(uuid "3862ea86-7c7a-49ae-9717-e04492c12bff")
 		)
 		(fp_line
 			(start 7 -5)
@@ -16722,7 +16722,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "96dbdfdb-5968-443d-8b5b-f68e46fc7201")
+			(uuid "e34ac049-92a2-42b4-8327-adf6ffa51350")
 		)
 		(fp_line
 			(start 7 7)
@@ -16732,37 +16732,37 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5ec6e035-541e-4476-9489-89a106de2b95")
+			(uuid "0d76d26c-373e-46dc-9138-786ee4a22650")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start 11.90625 -9.525)
+			(end -11.90625 -9.525)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d9df5b87-1a2d-46dc-987e-96b162e5a7a8")
+			(uuid "591a7631-ce31-49e3-bfb2-91890f26bf6d")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end -9.525 9.525)
+			(start 11.90625 9.525)
+			(end -11.90625 9.525)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "999a2643-c2e6-442c-b20f-2804a6a30025")
+			(uuid "7c8ca463-0a86-4b40-acea-80d8ec5381ef")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end 9.525 -9.525)
+			(start 11.90625 9.525)
+			(end 11.90625 -9.525)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "91e2c267-4ae1-40e6-b9af-001f40de645d")
+			(uuid "3008c580-1ea1-413c-9ae2-d57f9366e16c")
 		)
 		(fp_line
 			(start -7.2 -6.4)
@@ -16772,7 +16772,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cbeb5177-3a78-4616-b049-0dea0ffe255f")
+			(uuid "90143900-7f33-4696-81cd-f0a50db183a9")
 		)
 		(fp_line
 			(start -7.2 -3.75)
@@ -16782,7 +16782,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a5227310-d426-44c7-97a3-026852970cfe")
+			(uuid "6c934de1-d47f-4ce0-9716-33cfa1a29367")
 		)
 		(fp_line
 			(start -5.3 -6.4)
@@ -16792,7 +16792,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "15cfaa9e-98cd-4842-b31d-b892f3f5d17a")
+			(uuid "0b7ff98d-da77-4b44-b571-6a5c9336e253")
 		)
 		(fp_line
 			(start -5.3 -3.75)
@@ -16802,7 +16802,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c6ae4c28-4226-46ee-b541-64d78f6faf93")
+			(uuid "fa8d3d11-9b49-409e-8fc7-9e387f1f6b74")
 		)
 		(fp_line
 			(start -5.3 -3.75)
@@ -16812,7 +16812,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0897e8db-2451-4647-9fef-97b2d64e102b")
+			(uuid "73be98fb-e340-4fa4-9659-e6ff3fcd9953")
 		)
 		(fp_line
 			(start -5.3 -2.6)
@@ -16822,7 +16822,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b20c9d41-3584-41c8-887b-41d3ec8593b4")
+			(uuid "09710d7d-5be5-4303-9aa8-8f0690e6751d")
 		)
 		(fp_line
 			(start 2.4 -0.6)
@@ -16832,7 +16832,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "23b7f996-3cf5-4321-8920-7668e24e92b6")
+			(uuid "99f32581-67bb-4b0a-aa4f-65e0e3e69f31")
 		)
 		(fp_line
 			(start 4 -7)
@@ -16842,7 +16842,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c31b4c9a-0cf3-411f-be50-1c00d82a41f9")
+			(uuid "835d48f7-610e-4139-8587-23c703458da0")
 		)
 		(fp_line
 			(start 6.5 -3.875)
@@ -16852,7 +16852,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "299f8f10-a57e-4645-839e-5e01a4297b36")
+			(uuid "57f85d94-ea4a-4087-a2e3-62172e724e15")
 		)
 		(fp_line
 			(start 6.5 -1.2)
@@ -16862,7 +16862,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "588e185f-eb20-42b6-a918-63d115268d3e")
+			(uuid "433d2863-206e-4c5c-b0e7-5536dab12124")
 		)
 		(fp_line
 			(start 6.5 -1.2)
@@ -16872,7 +16872,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c204ebe5-047b-4c83-8cc7-3c5006810345")
+			(uuid "98513355-f6d0-4be9-8472-36f27ff0b8ff")
 		)
 		(fp_line
 			(start 8.45 -3.875)
@@ -16882,7 +16882,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3201ce9c-5ce2-46d2-98ee-6f1eea929151")
+			(uuid "37ccd8c0-ed51-4131-9b98-ecb32beddcd6")
 		)
 		(fp_line
 			(start 8.45 -1.2)
@@ -16892,7 +16892,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4b1115a4-a38f-458c-a18a-11a9c3ab9608")
+			(uuid "c5326ef2-0579-482d-bcb6-f85b3e75fbf8")
 		)
 		(fp_arc
 			(start 0.4 -2.6)
@@ -16903,7 +16903,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1946e0ec-846a-41df-b5ad-0b51d4711e1b")
+			(uuid "8080c34b-ccf2-4619-892c-dbba68508b43")
 		)
 		(fp_arc
 			(start 4 -7)
@@ -16914,42 +16914,42 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "602fa24a-fae7-4a71-9c52-72c38b5d787e")
+			(uuid "ab52f06b-3d08-432c-83ac-51fb4462e6cf")
 		)
 		(pad "" np_thru_hole circle
 			(at -5.08 0 311.901)
 			(size 1.7018 1.7018)
 			(drill 1.7018)
 			(layers "*.Cu" "*.Mask")
-			(uuid "ec3c5970-90d5-4d81-b335-ab690b4ece4f")
+			(uuid "c29a99f0-5a9e-4112-add3-22a538552961")
 		)
 		(pad "" np_thru_hole circle
 			(at -2.54 -5.08)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
-			(uuid "567e61d9-1c9a-4c68-b09f-d7eadd297fc8")
+			(uuid "2815955a-9912-40f1-b2c9-724ec689cd25")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
-			(uuid "dc2c61e7-3e14-4bf7-a88a-be083e313296")
+			(uuid "1a15162d-ac61-4f20-8d61-02ea34622730")
 		)
 		(pad "" np_thru_hole circle
 			(at 3.81 -2.54)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
-			(uuid "824b0d1f-dbd2-41be-b571-6ebf98f20b19")
+			(uuid "c3924d01-7f87-46c7-b00b-6ef99c1ceee9")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0 311.901)
 			(size 1.7018 1.7018)
 			(drill 1.7018)
 			(layers "*.Cu" "*.Mask")
-			(uuid "081726ba-2f2e-4f9a-b2e6-93f7093c22a8")
+			(uuid "99d82622-a787-4b3c-aa80-aae0c3bed64e")
 		)
 		(pad "1" smd roundrect
 			(at 7.085 -2.54)
@@ -17786,7 +17786,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-2U"
 		(layer "F.Cu")
 		(uuid "3e498c4a-3e39-42a9-a763-482f01edd715")
-		(at 315 119)
+		(at 321.5 114.5)
 		(property "Reference" "MXbksp1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -20401,7 +20401,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "47a44cea-00a2-407e-80a7-f405da75329e")
-		(at 441.5 153.5)
+		(at 94.08 153.5)
 		(property "Reference" "MXa1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -21340,7 +21340,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "494873f8-9e52-40fd-aece-88ca9d3bfd06")
-		(at 442.58 178.5)
+		(at 177.58 172.5)
 		(property "Reference" "MXb1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -22795,7 +22795,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "51212842-54d8-4a6d-9734-707d5b62cfc8")
-		(at 467 211)
+		(at 210.58 153.5)
 		(property "Reference" "MXj1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -29333,7 +29333,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "660c2c0f-22ed-4a03-a771-5c7c2e7bd894")
-		(at 518.161 172.2977)
+		(at 158.58 172.5)
 		(property "Reference" "MXv1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -31584,7 +31584,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6c0de8d6-47db-4bc9-81ff-dcbd91231951")
-		(at 501.384 122.0107)
+		(at 196.58 173)
 		(property "Reference" "MXn1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -32381,7 +32381,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6de5a943-2e32-45d3-92d8-ccbbf32d92e3")
-		(at 441 127)
+		(at 277.08 172.5)
 		(property "Reference" "MX/1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -33743,7 +33743,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "6f770e24-6e05-4f73-8dbd-ff45426e7c8b")
-		(at 511 199.5)
+		(at 109.58 135)
 		(property "Reference" "MXw1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -40729,7 +40729,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "811762cc-c0e6-4bf7-901e-7115da6f456f")
-		(at 265.58 191.5)
+		(at 256 192)
 		(property "Reference" "MXralt1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -44370,7 +44370,7 @@
 	(footprint "Keebio:RotaryEncoder_EC11"
 		(layer "F.Cu")
 		(uuid "8b98a1e2-21c8-4230-ae79-b2a87b5fe01f")
-		(at 565.5575 190.75)
+		(at 355 92)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW2"
@@ -44782,7 +44782,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "8ebce178-73f6-4274-acc7-46c75416c7e6")
-		(at 518.161 152.1829)
+		(at 208.08 135)
 		(property "Reference" "MXu1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -45180,7 +45180,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "8ecc0dde-ffa1-40c9-8b38-6d68e1864c5a")
-		(at 468.875 77.0348)
+		(at 133.5 153)
 		(property "Reference" "MXd1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -46144,7 +46144,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "903c3987-a35a-4bea-b4af-d9dfa47f38b1")
-		(at 469.5 235.5)
+		(at 229.58 153.5)
 		(property "Reference" "MXk1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -47223,7 +47223,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "94d8b7a9-1b07-4a7f-8596-a469e0cab6cd")
-		(at 484.607 192.4125)
+		(at 227.5 135)
 		(property "Reference" "MXi1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -50411,7 +50411,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "9d06af5c-20f6-4fcb-895f-52f0e13e1734")
-		(at 480.54 150.58)
+		(at 171.5 153)
 		(property "Reference" "MXg1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -51207,7 +51207,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "9ecb922f-653f-434d-8ff5-02623972e55b")
-		(at 515 243)
+		(at 100.58 172.5)
 		(property "Reference" "MXz1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -51605,7 +51605,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "9eedcc5e-2b4f-4566-b78f-6ade89a3eab3")
-		(at 518.161 122.0107)
+		(at 168.58 134.5)
 		(property "Reference" "MXt1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -52261,7 +52261,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "a03a8e53-7dcf-4277-bc97-0232f52281d4")
-		(at 425.5 164.5)
+		(at 288.08 154.5)
 		(property "Reference" "MX'1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -55877,7 +55877,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "ac205a5e-244c-41e2-8826-12bb6c232404")
-		(at 294.842 192.08)
+		(at 298.5 192.5)
 		(property "Reference" "MXrctrl1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -57923,7 +57923,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "b2448f62-9765-4c52-9f50-167c98b8f8e0")
-		(at 518.161 101.8959)
+		(at 113.92 153)
 		(property "Reference" "MXs1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -59518,7 +59518,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "b4a719b2-44f9-482d-af4b-b0baff4bf0e6")
-		(at 254.5 134)
+		(at 274 114.5)
 		(property "Reference" "MX-1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -61539,7 +61539,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "b910ad93-9c8d-4f70-982f-c21f9427194b")
-		(at 223.5 146.5)
+		(at 285.19 135.54)
 		(property "Reference" "MX[1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -64097,7 +64097,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "c0ae2afb-9789-479b-a046-1263bf49ed8f")
-		(at 284 141.5)
+		(at 248.58 153.5)
 		(property "Reference" "MXl1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -65600,7 +65600,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "c5102088-be76-464c-9dfc-5d83455c57d0")
-		(at 460.5 150)
+		(at 277.58 192)
 		(property "Reference" "MXfn1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -66139,7 +66139,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "c5ed3c39-b894-4a59-b50d-2a2d751df47f")
-		(at 437 221)
+		(at 235.08 173)
 		(property "Reference" "MX,1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -66935,7 +66935,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "c5fdc9ac-6a60-4f93-978f-13056b1a23aa")
-		(at 481 100)
+		(at 128.92 135)
 		(property "Reference" "MXe1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -67591,7 +67591,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "c785a32a-e0d1-41ee-b4ab-8abdf37876be")
-		(at 64.58 191)
+		(at 64.58 192)
 		(property "Reference" "MXctrl1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -69225,7 +69225,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "cebef0f7-9b0a-42b7-ac15-6db4c90ec4d0")
-		(at 124.58 146)
+		(at 152.5 153)
 		(property "Reference" "MXf2"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -70846,7 +70846,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "d423b631-1031-4775-80c8-1e56d4467503")
-		(at 498.875 87.5348)
+		(at 216.08 173)
 		(property "Reference" "MXm1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -71244,7 +71244,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "d45caba7-6b58-4818-9a41-c7149160a5f8")
-		(at 242.58 148)
+		(at 303.875 135.5348)
 		(property "Reference" "MX]1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -71925,7 +71925,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.5U"
 		(layer "F.Cu")
 		(uuid "d63891d0-8eb9-4c2a-b348-5aa45af480af")
-		(at 310.08 140.5)
+		(at 315.69 154.54)
 		(property "Reference" "MXenter1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -72323,7 +72323,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "d6491d9d-88f3-4104-a29e-b81864bca050")
-		(at 436.5 201)
+		(at 293.08 114.5)
 		(property "Reference" "MX+1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -74201,7 +74201,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.5U"
 		(layer "F.Cu")
 		(uuid "e0abf18f-c9e5-41f3-a129-432dad632dfb")
-		(at 518.161 132.0681)
+		(at 66.5 133.5)
 		(property "Reference" "MXtab1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -74857,7 +74857,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "e28250dc-96f1-4407-a672-c5de79ffe94e")
-		(at 495 220)
+		(at 188.342 134.08)
 		(property "Reference" "MXy1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -75653,7 +75653,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.75U"
 		(layer "F.Cu")
 		(uuid "e3b60ea2-fbb2-40d4-a160-471f701f305b")
-		(at 68.58 149.5)
+		(at 68.58 151.5)
 		(property "Reference" "MXcaps1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -76871,7 +76871,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "e8c92a6c-46bd-4cb7-acdf-f1655769d77c")
-		(at 468.5 127)
+		(at 266.58 135.5)
 		(property "Reference" "MXp1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -78634,7 +78634,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "f03451f9-89db-4cc4-b3b9-84806503112b")
-		(at 429.08 106.5)
+		(at 247.08 135)
 		(property "Reference" "MXo1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -79430,7 +79430,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
 		(uuid "f802aaaf-b571-4c34-aa9b-972500407f58")
-		(at 400.5 188.5)
+		(at 139.08 172)
 		(property "Reference" "MXc1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
@@ -81190,7 +81190,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1.25U"
 		(layer "F.Cu")
 		(uuid "fae5a60d-c9bc-47a9-8d67-4ba2a67bb6f9")
-		(at 518.161 111.9533)
+		(at 88.08 192.5)
 		(property "Reference" "MXsuper1"
 			(at 0 3.175 0)
 			(layer "F.Fab")
