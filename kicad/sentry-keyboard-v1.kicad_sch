@@ -21231,7 +21231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
+		(property "Footprint" "Keebio:USB_miniB_HandSolder"
 			(at 158.75 48.26 0)
 			(effects
 				(font
@@ -31207,7 +31207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.25U"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1U"
 			(at 290.195 137.795 0)
 			(effects
 				(font
