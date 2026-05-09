@@ -27162,7 +27162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2U"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2.25U"
 			(at 229.235 117.475 0)
 			(effects
 				(font
@@ -31961,7 +31961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kaihl hotswap:MX-Hotswap-1.5U"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2.25U"
 			(at 352.425 97.155 0)
 			(effects
 				(font
