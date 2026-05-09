@@ -6030,7 +6030,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "140a7687-0376-4f30-abc7-d54ff501db0d")
-		(at 331.825 174.75 180)
+		(at 331.825 178.819517 180)
 		(property "Reference" "D105"
 			(at 0.08 -2.1 0)
 			(unlocked yes)
@@ -41852,7 +41852,7 @@
 	(footprint "Kaihl hotswap:MX-Hotswap-1U"
 		(layer "B.Cu")
 		(uuid "82443651-0a85-4ad9-888d-fa425aa50bb5")
-		(at 331.920084 169.930483 180)
+		(at 331.920084 174 180)
 		(property "Reference" "MXup1"
 			(at 0 -3.175 0)
 			(layer "B.Fab")
@@ -78124,7 +78124,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "e91525ca-ec18-4539-b882-f949a548d74c")
-		(at 339.121735 173.759199 180)
+		(at 339.121735 177.828716 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D71"
