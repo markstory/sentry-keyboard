@@ -967,7 +967,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "01dc3710-fe08-4aea-8930-591941154d68")
-		(at 149.84911 174.170053 180)
+		(at 150.85 174.206665 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D62"
@@ -1517,7 +1517,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "0350d035-1c48-4383-974c-0ad20d9fe5a1")
-		(at 127.353237 138.070829 180)
+		(at 128.476047 137.063179 180)
 		(property "Reference" "D126"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -2041,7 +2041,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "04d6ab35-2254-4641-917e-67d21066407e")
-		(at 259.65 192.5 180)
+		(at 260.160187 193.217381 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D77"
@@ -2329,7 +2329,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "04fe6ad1-891f-481b-8092-8d1a8638d121")
-		(at 210.655034 136.813009 180)
+		(at 212.626427 136.147805 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D46"
@@ -3171,7 +3171,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0b233135-2ce9-4088-938c-d83cb5e36af2")
-		(at 226.137239 174.113665 180)
+		(at 226.65 174.113665 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D66"
@@ -4009,7 +4009,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "0d692ea9-1cba-4695-9373-dcb80792c1f8")
-		(at 99.53321 120.549657 180)
+		(at 99.869704 118.055426 180)
 		(property "Reference" "D147"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -4533,7 +4533,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "0f5d4441-ccb8-4925-867c-cc472275248c")
-		(at 130.757588 174.275753 180)
+		(at 131.661457 174.286045 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D27"
@@ -5218,7 +5218,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "115dd7dc-6340-442b-882b-e04dedb593a8")
-		(at 297.65 193 180)
+		(at 298.296432 193.265009 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D79"
@@ -6977,7 +6977,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "189ab52b-1c2d-4bd2-ba59-626eb536a4a2")
-		(at 118.994906 120.059919 180)
+		(at 118.920851 118.055426 180)
 		(property "Reference" "D146"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -7239,7 +7239,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "192090d6-1a61-4a85-8fe1-78a5db56920b")
-		(at 207.053463 173.5 180)
+		(at 207.81716 174.166234 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D65"
@@ -7527,7 +7527,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "194fcf97-2a15-43c8-9c51-08c8ba88ed60")
-		(at 322.675 139.55443 180)
+		(at 323.849531 137.162404 180)
 		(property "Reference" "D110"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -7789,7 +7789,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "1985d9d2-3576-40cf-b43f-f0043fa35446")
-		(at 261.161013 138.336411 180)
+		(at 261.900228 137.129329 180)
 		(property "Reference" "D133"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -8738,7 +8738,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1b6b9b20-7d56-44f0-9c1c-595dc3bae5d6")
-		(at 268.011013 136.836411 180)
+		(at 269.573929 136.081655 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D49"
@@ -9026,7 +9026,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1bbdc0e3-2b12-4691-adad-8b3bfb947d5c")
-		(at 329.180907 114.502755 180)
+		(at 326.869895 116.966925 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D42"
@@ -9999,7 +9999,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "1c19917c-61af-4d6b-b3f1-c769eef56151")
-		(at 187.96439 174.000934 180)
+		(at 188.65 174 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D64"
@@ -13555,7 +13555,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "27318ea4-2298-4035-937e-a8bf83fc8353")
-		(at 339.15 196.5 180)
+		(at 339.827933 196.789471 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D81"
@@ -14367,7 +14367,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2af73b4c-b6c9-4243-a9e9-c80b1fc471e6")
-		(at 297.257346 118.249415 180)
+		(at 298.590848 117.132299 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D41"
@@ -14655,7 +14655,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "2b27bc4c-54e7-4675-8067-49e84f85bbaa")
-		(at 283.203463 174.5 180)
+		(at 284.117005 174.356745 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D69"
@@ -15235,7 +15235,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "2db366b9-5f21-4992-9d1e-a0dee1b3d5f8")
-		(at 157.0481 120.010997 180)
+		(at 157.02796 118.09853 180)
 		(property "Reference" "D144"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -15643,7 +15643,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "3313b6c7-22e0-40cd-87a3-4fb6ea1023c9")
-		(at 280.579885 137.796411 180)
+		(at 280.926435 137.162404 180)
 		(property "Reference" "D134"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -15905,7 +15905,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "33673331-4c40-4394-8c38-24aa2e57f20a")
-		(at 271.082346 120.499415 180)
+		(at 271.477236 118.014599 180)
 		(property "Reference" "D138"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -16961,7 +16961,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "34acc4b8-c62c-4c21-80f1-f789af42e74c")
-		(at 287.429885 136.296411 180)
+		(at 288.658151 136.081655 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D50"
@@ -18196,7 +18196,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "3d33eaa1-2588-4ec3-8ed7-8deb66ef6e5f")
-		(at 183.714162 139.233009 180)
+		(at 185.703774 137.129329 180)
 		(property "Reference" "D129"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -18883,7 +18883,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "3f3e42c4-6936-4088-a6b5-3822d43ce75b")
-		(at 331.008 135.80443 180)
+		(at 331.618989 136.149441 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D52"
@@ -19459,7 +19459,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "400ee6d4-65e8-4485-8fa3-1be848c96092")
-		(at 242.132142 138.336411 180)
+		(at 242.948305 137.129329 180)
 		(property "Reference" "D132"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -19983,7 +19983,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "418420b3-6cc6-4865-b22c-d7f872a1dfa5")
-		(at 222.065022 118.25853 180)
+		(at 222.223902 117.122482 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D37"
@@ -20533,7 +20533,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "43966cec-2447-43a4-895b-b6720ebbced9")
-		(at 97.1876 135.812881 180)
+		(at 98.12888 136.165374 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
@@ -20821,7 +20821,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "4469c861-039a-4bee-b103-e139879b6f4a")
-		(at 273.80531 155.26443 180)
+		(at 274.35 155.26443 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D58"
@@ -21506,7 +21506,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "47ad9ee9-2c51-40ae-83c6-9caf455a86ac")
-		(at 300.455738 138.801611 180)
+		(at 300.010657 137.129329 180)
 		(property "Reference" "D135"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -22741,7 +22741,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "4acc3196-af09-4ef6-9e1e-6365efd67e70")
-		(at 137.131294 120.500852 180)
+		(at 137.937123 118.05884 180)
 		(property "Reference" "D145"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -23265,7 +23265,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "506e261b-6721-4b41-9c72-5fa1dc45a3af")
-		(at 214.240022 120.50853 180)
+		(at 214.161437 118.092378 180)
 		(property "Reference" "D141"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -23924,7 +23924,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "51ef5219-7e5f-40a4-8de0-419d1684d45b")
-		(at 192.064162 136.733009 180)
+		(at 193.435489 136.18088 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D45"
@@ -24212,7 +24212,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "51f51cf1-35fd-449a-bdbe-32c069637020")
-		(at 307.455738 135.801611 180)
+		(at 307.808523 136.015505 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D51"
@@ -26717,7 +26717,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "5aa89f42-9407-4426-a13a-678e5ee69b39")
-		(at 264.203463 174.5 180)
+		(at 265.15 174.5 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D68"
@@ -27952,7 +27952,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "5f00fb55-e489-474b-ba51-e0711352b1e7")
-		(at 80.418415 173 180)
+		(at 81.368627 174.246355 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D25"
@@ -29034,7 +29034,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "63065373-2600-4589-9178-68064222b9d3")
-		(at 126.169906 117.309919 180)
+		(at 126.85 117.309919 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
@@ -29322,7 +29322,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "633f1a37-b30b-4e7b-a4ab-5bd5bb335b2a")
-		(at 245.203463 174.5 180)
+		(at 245.65 174.5 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D67"
@@ -29872,7 +29872,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "65b9544f-5354-48e2-bf27-fbd370be9794")
-		(at 289.582346 120.499415 180)
+		(at 290.495309 117.981524 180)
 		(property "Reference" "D137"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -32137,7 +32137,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "6a089274-5694-4b23-8b16-cd9a54fd403d")
-		(at 165.325 139.25 180)
+		(at 166.751851 137.096254 180)
 		(property "Reference" "D128"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -34286,7 +34286,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "6f1e4065-bfba-4812-b136-8c41dc5aa611")
-		(at 159.397733 155 180)
+		(at 159.95749 155.203131 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D23"
@@ -35495,7 +35495,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "71e3bdd3-d8ee-4391-be79-625fc5e3f098")
-		(at 241.340548 118.25853 180)
+		(at 241.255296 117.198449 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D38"
@@ -36614,7 +36614,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "746c7691-81df-48ec-a1e6-add3109accc8")
-		(at 233.365548 120.50853 180)
+		(at 233.278827 118.067519 180)
 		(property "Reference" "D140"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -37138,7 +37138,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "761b1bdf-f934-4bf4-8424-92fce13a9638")
-		(at 230.495887 136.844991 180)
+		(at 231.703158 136.18088 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D47"
@@ -38085,7 +38085,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "785a7312-ffb4-4bb2-8d07-2337561afac4")
-		(at 108.50821 117.299657 180)
+		(at 107.85 117.299657 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
@@ -40235,7 +40235,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "7b78a9b2-8d93-4a2a-a277-ec6201e7e332")
-		(at 116.962714 136.320829 180)
+		(at 117.22964 136.220499 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
@@ -40523,7 +40523,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "7c198da5-3520-4a1d-acd9-501de575aa6e")
-		(at 60.466631 119.982973 180)
+		(at 61.782068 118.027366 180)
 		(property "Reference" "D149"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -40931,7 +40931,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "7ee3b4dc-8455-4471-8add-60df832225d2")
-		(at 222.645887 138.344991 180)
+		(at 223.839143 137.162404 180)
 		(property "Reference" "D131"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -42249,7 +42249,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "82e91dea-0c43-4848-96a6-e51d956ea07a")
-		(at 254.65 155.5 180)
+		(at 255.35 155.5 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D57"
@@ -43484,7 +43484,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "871eaf04-1055-42b9-a262-ff77e28d410c")
-		(at 292.834182 155.168486 180)
+		(at 293.35 155.168486 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D59"
@@ -43772,7 +43772,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "87ae693b-dea9-491b-9876-b0b6e1c21fd0")
-		(at 81.407684 119.549657 180)
+		(at 80.719332 118.022352 180)
 		(property "Reference" "D148"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -44584,7 +44584,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "89989c79-0486-4e8d-a71e-d6c480a61ea3")
-		(at 146.106294 117.250852 180)
+		(at 145.913593 117.03101 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D11"
@@ -45928,7 +45928,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8f05948d-6a52-46d6-8504-c0a6ae007a54")
-		(at 77.166034 134.324921 180)
+		(at 74.349999 136.142327 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
@@ -46216,7 +46216,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "8f6c128f-63a4-457e-87e7-d2a712f298c6")
-		(at 165.0231 117.760997 180)
+		(at 164.92505 116.991321 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
@@ -47298,7 +47298,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "945d2e8f-661c-45d3-ac70-592326a925f6")
-		(at 197.619934 155.168486 180)
+		(at 198.15 155.168486 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D54"
@@ -48526,7 +48526,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "97b2c33c-fa34-411b-940d-885ec9559a49")
-		(at 320.15 196.5 180)
+		(at 320.776786 196.646588 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D80"
@@ -53038,7 +53038,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "a1876598-ee28-4076-8101-c7596bc94e24")
-		(at 203.005034 137.813009 180)
+		(at 205.11061 137.096254 180)
 		(property "Reference" "D130"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -55744,7 +55744,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "a829fc57-c14a-4f34-be02-63bc00bcdef2")
-		(at 135.678237 136.320829 180)
+		(at 136.15 136.320829 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
@@ -56032,7 +56032,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "a9d412cb-f048-4733-9fef-8645d433b359")
-		(at 66.841034 138.574921 180)
+		(at 66.825 137.25 180)
 		(property "Reference" "D123"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -56953,7 +56953,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "af16db27-6b69-419a-a1de-68fb64dee74c")
-		(at 235.65385 155.421592 180)
+		(at 236.35 155.421592 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D56"
@@ -57241,7 +57241,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b00dc679-b906-4f4d-95ab-ddb67e919657")
-		(at 154.648418 136.313009 180)
+		(at 155.36627 136.147805 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D17"
@@ -57529,7 +57529,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b01fa845-3c22-451c-99b5-f380e0fb9fa2")
-		(at 140.351466 155.36215 180)
+		(at 140.65 155.36215 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D22"
@@ -59314,7 +59314,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "b4046694-08a5-4acd-bf4a-d75bf1a55c41")
-		(at 320.855907 117.252755 180)
+		(at 319.130044 118.00297 180)
 		(property "Reference" "D136"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -60370,7 +60370,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b50c78e8-d78d-41db-8d1f-2c57212558fd")
-		(at 216.584843 155.26443 180)
+		(at 217.15 155.26443 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D24"
@@ -60658,7 +60658,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b585e4ce-c30f-4ff3-a6b0-d6f0be36f476")
-		(at 111.797249 173.704975 180)
+		(at 112.45155 174.405114 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D26"
@@ -60946,7 +60946,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "b5bd58d6-6073-47de-a017-ba6422ae578b")
-		(at 249.982142 136.836411 180)
+		(at 250.721231 136.18088 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D48"
@@ -64315,7 +64315,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "bd57af2d-5f54-497b-a301-cda5882056d5")
-		(at 182.752431 117.760997 180)
+		(at 183.857128 117.15008 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D44"
@@ -65397,7 +65397,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c153f830-4c42-42fb-b806-e785b8b3a4f7")
-		(at 168.98074 174.085494 180)
+		(at 169.65 174.085494 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D63"
@@ -67853,7 +67853,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "c6e455f8-0904-48ca-9ef3-51c966c40905")
-		(at 110.137714 138.070829 180)
+		(at 109.379539 137.218561 180)
 		(property "Reference" "D125"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -68800,7 +68800,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "c839bbc0-0bab-4d2e-989c-c67ac31a8acb")
-		(at 278.407346 117.749415 180)
+		(at 279.348742 117.132299 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D40"
@@ -69735,7 +69735,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "cbf9a4e4-76e2-42db-9f08-e655cb8ce92b")
-		(at 202.787697 117.704802 180)
+		(at 202.974305 117.188632 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D36"
@@ -70420,7 +70420,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d0b3bee8-a61a-4f27-8162-79ef5a6dbe70")
-		(at 278.65 192.5 180)
+		(at 280.068636 192.693475 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D78"
@@ -70854,7 +70854,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d1b2468f-04ab-4eec-8a06-657fda3cd772")
-		(at 259.618465 117.75853 180)
+		(at 260.256742 117.29553 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D39"
@@ -72460,7 +72460,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d4d6940b-1068-412d-bc61-2883fa56cf35")
-		(at 102.15 155 180)
+		(at 102.65 155 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D20"
@@ -73570,7 +73570,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "d6dba524-4bbe-4712-a2e4-6b3e29f4ffce")
-		(at 358.15 196.5 180)
+		(at 358.749874 196.694216 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D82"
@@ -74255,7 +74255,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "df768723-56c2-4cda-b0bc-a31b307fcedb")
-		(at 69.291631 117.732973 180)
+		(at 69.758538 117.039226 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
@@ -74543,7 +74543,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "e01ece54-b16c-4544-8fd3-e0a3cab1b9d0")
-		(at 252.943465 120.00853 180)
+		(at 252.321839 117.908759 180)
 		(property "Reference" "D139"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -75464,7 +75464,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "e18f48c3-4517-4ddf-afbc-5c7810d1603d")
-		(at 90.6626 138.562881 180)
+		(at 90.444154 137.190998 180)
 		(property "Reference" "D124"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -77493,7 +77493,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "e8391645-31c8-494e-915b-3325dd9e97d2")
-		(at 176.077431 120.010997 180)
+		(at 175.999728 118.09853 180)
 		(property "Reference" "D143"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -78440,7 +78440,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "ece536ec-c3e4-41ba-8511-f3a08927220f")
-		(at 145.998418 137.813009 180)
+		(at 147.601479 137.030104 180)
 		(property "Reference" "D127"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -78702,7 +78702,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "ee3f8cf7-4bb1-4804-9a3d-fcd06777f9d3")
-		(at 173.09729 136.313009 180)
+		(at 174.252043 136.081655 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D18"
@@ -78990,7 +78990,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
 		(uuid "eef796a3-1c08-4143-b449-e15f07fd67bf")
-		(at 178.65 155.375505 180)
+		(at 179.044469 155.203131 180)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D55"
@@ -79278,7 +79278,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "ef6cf1e5-7d68-4c9e-a77e-6883bb0f122d")
-		(at 194.812697 119.954802 180)
+		(at 195.011065 118.037857 180)
 		(property "Reference" "D142"
 			(at 0 -2.1 0)
 			(unlocked yes)
