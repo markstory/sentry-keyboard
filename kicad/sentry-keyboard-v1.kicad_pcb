@@ -33058,9 +33058,9 @@
 		(uuid "6de5a943-2e32-45d3-92d8-ccbbf32d92e3")
 		(at 276.161666 170.409951 180)
 		(property "Reference" "MX/1"
-			(at 0 0.825 0)
+			(at 0 -3.090049 0)
 			(layer "B.Fab")
-			(uuid "b657271a-f99c-4ea7-893f-f76ab796d5ac")
+			(uuid "3147f593-1a00-4ed9-a22c-a77d628f6132")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -33070,9 +33070,9 @@
 			)
 		)
 		(property "Value" "K0_4"
-			(at -27.25 4.8334 0)
+			(at 0.161666 7.909951 0)
 			(layer "Dwgs.User")
-			(uuid "46845750-635c-4c47-ba84-44864dbbfe15")
+			(uuid "12edde39-aacb-4124-b77c-cbe03a87fe48")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -33085,7 +33085,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff83fe4e-ccc3-4d31-a294-6cde2018fda1")
+			(uuid "05d529d5-2f0a-4d76-82da-6c432fbe15f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33098,7 +33098,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1fce5b41-efbc-41f1-8c8c-8cf7fc3c4827")
+			(uuid "d4041ebd-a412-4f9d-b83d-ab8c9bf1ccac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70960,7 +70960,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "d27a7c4f-4083-4736-b4a7-ba11bfb8cfa7")
-		(at 328.515 94.83 180)
+		(at 328.325 94.83 180)
 		(property "Reference" "D164"
 			(at 0 -2.1 0)
 			(unlocked yes)
@@ -82170,7 +82170,7 @@
 	(footprint "Keebio:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "fbc94718-774e-41a2-9066-b87f0dce201a")
-		(at 304.675 95.25 180)
+		(at 304.325 95.25 180)
 		(property "Reference" "D163"
 			(at 0 -2.1 0)
 			(unlocked yes)
