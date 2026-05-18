@@ -24786,7 +24786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kaihl hotswap:MX-Hotswap-6.25U"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-6.25U-ReversedStabilizers"
 			(at 259.715 137.795 0)
 			(effects
 				(font
@@ -30284,7 +30284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2.25U"
+		(property "Footprint" "Kaihl hotswap:MX-Hotswap-2.25U-ReversedStabilizers"
 			(at 352.425 97.155 0)
 			(effects
 				(font
