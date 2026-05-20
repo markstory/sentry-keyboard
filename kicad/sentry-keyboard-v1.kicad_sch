@@ -5931,10 +5931,6 @@
 		(at 274.32 374.65)
 		(uuid "d197be57-4f4e-455b-b50c-e77aa5efcc9e")
 	)
-	(no_connect
-		(at 96.52 113.03)
-		(uuid "eea2883e-dc71-43ae-b26f-9b3a130c7500")
-	)
 	(wire
 		(pts
 			(xy 100.33 307.34) (xy 100.33 312.42)
@@ -13627,7 +13623,7 @@
 			)
 		)
 	)
-	(global_label "Col9"
+	(global_label "Col10"
 		(shape input)
 		(at 350.52 27.94 90)
 		(effects
@@ -13689,7 +13685,7 @@
 			)
 		)
 	)
-	(global_label "Col7"
+	(global_label "Col8"
 		(shape input)
 		(at 330.2 27.94 90)
 		(effects
@@ -13811,7 +13807,7 @@
 			)
 		)
 	)
-	(global_label "Col11"
+	(global_label "Col12"
 		(shape input)
 		(at 372.11 27.94 90)
 		(effects
@@ -13977,7 +13973,7 @@
 			)
 		)
 	)
-	(global_label "Col12"
+	(global_label "Col13"
 		(shape input)
 		(at 382.27 27.94 90)
 		(effects
@@ -14083,7 +14079,7 @@
 			)
 		)
 	)
-	(global_label "Col6"
+	(global_label "Col7"
 		(shape input)
 		(at 320.04 27.94 90)
 		(effects
@@ -14147,7 +14143,7 @@
 			)
 		)
 	)
-	(global_label "Col5"
+	(global_label "Col6"
 		(shape input)
 		(at 309.88 27.94 90)
 		(effects
@@ -14289,6 +14285,28 @@
 			)
 		)
 	)
+	(global_label "Col13"
+		(shape input)
+		(at 96.52 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c20e74d-6193-42dc-a9d9-0dabbaafdf33")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.0084 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Encoder B"
 		(shape input)
 		(at 96.52 120.65 0)
@@ -14417,7 +14435,7 @@
 			)
 		)
 	)
-	(global_label "Col10"
+	(global_label "Col11"
 		(shape input)
 		(at 360.68 27.94 90)
 		(effects
@@ -14583,7 +14601,7 @@
 			)
 		)
 	)
-	(global_label "Col8"
+	(global_label "Col9"
 		(shape input)
 		(at 340.36 27.94 90)
 		(effects
@@ -20097,7 +20115,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K2_10"
 			(at 347.5482 72.4154 0)
 			(effects
 				(font
@@ -20163,7 +20181,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K4_12"
 			(at 369.1382 113.0554 0)
 			(effects
 				(font
@@ -20304,7 +20322,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_1"
+		(property "Value" "K5_1"
 			(at 256.1082 133.3754 0)
 			(effects
 				(font
@@ -20581,7 +20599,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K0_10"
 			(at 347.5482 31.7754 0)
 			(effects
 				(font
@@ -21427,7 +21445,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_1"
+		(property "Value" "K4_7"
 			(at 317.0682 113.0554 0)
 			(effects
 				(font
@@ -22133,7 +22151,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_3"
+		(property "Value" "K0_9"
 			(at 337.3882 31.7754 0)
 			(effects
 				(font
@@ -22402,7 +22420,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_3"
+		(property "Value" "K4_9"
 			(at 337.3882 113.0554 0)
 			(effects
 				(font
@@ -22611,7 +22629,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K4_10"
 			(at 347.5482 113.0554 0)
 			(effects
 				(font
@@ -22972,7 +22990,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_1"
+		(property "Value" "K4_1"
 			(at 256.1082 113.0554 0)
 			(effects
 				(font
@@ -23179,7 +23197,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_2"
+		(property "Value" "K5_8"
 			(at 327.2282 133.3754 0)
 			(effects
 				(font
@@ -23245,7 +23263,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K1_10"
 			(at 347.5482 52.0954 0)
 			(effects
 				(font
@@ -23531,7 +23549,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_5"
+		(property "Value" "K5_5"
 			(at 296.7482 133.3754 0)
 			(effects
 				(font
@@ -23740,7 +23758,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K1_12"
 			(at 369.1382 52.0954 0)
 			(effects
 				(font
@@ -24085,7 +24103,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_1"
+		(property "Value" "K1_7"
 			(at 317.0682 52.0954 0)
 			(effects
 				(font
@@ -24226,7 +24244,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_1"
+		(property "Value" "K0_7"
 			(at 317.0682 31.7754 0)
 			(effects
 				(font
@@ -24577,7 +24595,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_0"
+		(property "Value" "K2_6"
 			(at 306.9082 72.4154 0)
 			(effects
 				(font
@@ -24778,7 +24796,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_3"
+		(property "Value" "K5_3"
 			(at 276.4282 133.3754 0)
 			(effects
 				(font
@@ -25280,7 +25298,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_0"
+		(property "Value" "K4_0"
 			(at 245.9482 113.0554 0)
 			(effects
 				(font
@@ -25857,7 +25875,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K0_13"
 			(at 379.2982 31.7754 0)
 			(effects
 				(font
@@ -25923,7 +25941,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_0"
+		(property "Value" "K0_6"
 			(at 306.9082 31.7754 0)
 			(effects
 				(font
@@ -26139,7 +26157,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_0"
+		(property "Value" "K5_0"
 			(at 245.9482 133.3754 0)
 			(effects
 				(font
@@ -26557,7 +26575,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_0"
+		(property "Value" "K1_6"
 			(at 306.9082 52.0954 0)
 			(effects
 				(font
@@ -26822,7 +26840,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K2_11"
 			(at 357.7082 72.4154 0)
 			(effects
 				(font
@@ -26963,7 +26981,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K1_11"
 			(at 357.7082 52.0954 0)
 			(effects
 				(font
@@ -27097,7 +27115,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_2"
+		(property "Value" "K4_8"
 			(at 327.2282 113.0554 0)
 			(effects
 				(font
@@ -27676,7 +27694,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_4"
+		(property "Value" "K4_4"
 			(at 286.5882 113.0554 0)
 			(effects
 				(font
@@ -27742,7 +27760,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K3_11"
 			(at 357.7082 92.7354 0)
 			(effects
 				(font
@@ -27809,7 +27827,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K2_13"
 			(at 379.2982 72.4154 0)
 			(effects
 				(font
@@ -27951,7 +27969,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_5"
+		(property "Value" "K4_5"
 			(at 296.7482 113.0554 0)
 			(effects
 				(font
@@ -28092,7 +28110,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_1"
+		(property "Value" "K3_7"
 			(at 317.0682 92.7354 0)
 			(effects
 				(font
@@ -29247,7 +29265,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_1"
+		(property "Value" "K5_7"
 			(at 317.0682 133.3754 0)
 			(effects
 				(font
@@ -29456,7 +29474,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_2"
+		(property "Value" "K4_2"
 			(at 266.2682 113.0554 0)
 			(effects
 				(font
@@ -29522,7 +29540,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_0"
+		(property "Value" "K5_6"
 			(at 306.9082 133.3754 0)
 			(effects
 				(font
@@ -30210,7 +30228,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_0"
+		(property "Value" "K3_6"
 			(at 306.9082 92.7354 0)
 			(effects
 				(font
@@ -30276,7 +30294,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K3_12"
 			(at 369.1382 92.7354 0)
 			(effects
 				(font
@@ -30417,7 +30435,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K1_13"
 			(at 379.2982 52.0954 0)
 			(effects
 				(font
@@ -30694,7 +30712,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_2"
+		(property "Value" "K1_8"
 			(at 327.2282 52.0954 0)
 			(effects
 				(font
@@ -31196,7 +31214,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_2"
+		(property "Value" "K2_8"
 			(at 327.2282 72.4154 0)
 			(effects
 				(font
@@ -31630,7 +31648,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K3_10"
 			(at 347.5482 92.7354 0)
 			(effects
 				(font
@@ -31696,7 +31714,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K5_10"
 			(at 347.5482 133.3754 0)
 			(effects
 				(font
@@ -31897,7 +31915,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_3"
+		(property "Value" "K4_3"
 			(at 276.4282 113.0554 0)
 			(effects
 				(font
@@ -31963,7 +31981,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_3"
+		(property "Value" "K3_9"
 			(at 337.3882 92.7354 0)
 			(effects
 				(font
@@ -32171,7 +32189,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_2"
+		(property "Value" "K0_8"
 			(at 327.2282 31.7754 0)
 			(effects
 				(font
@@ -32305,7 +32323,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_3"
+		(property "Value" "K2_9"
 			(at 337.3882 72.4154 0)
 			(effects
 				(font
@@ -32371,7 +32389,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_3"
+		(property "Value" "K1_9"
 			(at 337.3882 52.0954 0)
 			(effects
 				(font
@@ -32437,7 +32455,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_2"
+		(property "Value" "K5_2"
 			(at 266.2682 133.3754 0)
 			(effects
 				(font
@@ -32713,7 +32731,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K5_11"
 			(at 357.7082 133.3754 0)
 			(effects
 				(font
@@ -33486,7 +33504,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_1"
+		(property "Value" "K2_7"
 			(at 317.0682 72.4154 0)
 			(effects
 				(font
@@ -33913,7 +33931,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K4_13"
 			(at 379.2982 113.0554 0)
 			(effects
 				(font
@@ -33979,7 +33997,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_3"
+		(property "Value" "K5_9"
 			(at 337.3882 133.3754 0)
 			(effects
 				(font
@@ -34113,7 +34131,7 @@
 				)
 			)
 		)
-		(property "Value" "K3_4"
+		(property "Value" "K5_4"
 			(at 286.5882 133.3754 0)
 			(effects
 				(font
@@ -34461,7 +34479,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K2_12"
 			(at 369.1382 72.4154 0)
 			(effects
 				(font
@@ -34527,7 +34545,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_2"
+		(property "Value" "K3_8"
 			(at 327.2282 92.7354 0)
 			(effects
 				(font
@@ -34593,7 +34611,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K0_11"
 			(at 357.7082 31.7754 0)
 			(effects
 				(font
@@ -34868,7 +34886,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_0"
+		(property "Value" "K4_6"
 			(at 306.9082 113.0554 0)
 			(effects
 				(font
@@ -35068,7 +35086,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K5_12"
 			(at 367.8682 133.3754 0)
 			(effects
 				(font
@@ -35134,7 +35152,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_4"
+		(property "Value" "K0_12"
 			(at 369.1382 31.7754 0)
 			(effects
 				(font
@@ -35559,7 +35577,7 @@
 				)
 			)
 		)
-		(property "Value" "K0_5"
+		(property "Value" "K4_11"
 			(at 357.7082 113.0554 0)
 			(effects
 				(font
