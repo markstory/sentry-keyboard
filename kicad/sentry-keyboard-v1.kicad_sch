@@ -13867,6 +13867,28 @@
 			)
 		)
 	)
+	(global_label "LED-DIN"
+		(shape input)
+		(at 96.52 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d712acd-45ed-4f64-b774-c32974291887")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Col12"
 		(shape input)
 		(at 207.01 106.68 0)
@@ -14051,6 +14073,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Col12"
+		(shape input)
+		(at 96.52 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "62e69920-7d1e-4b58-b6cf-8de1bef7e56d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.0084 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -14557,28 +14601,6 @@
 			)
 		)
 	)
-	(global_label "LED-DIN"
-		(shape input)
-		(at 96.52 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ee7af850-003f-4c16-901f-cc7b49e56d4f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.73 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Row5"
 		(shape input)
 		(at 96.52 97.79 0)
@@ -14676,28 +14698,6 @@
 		(uuid "f99c05ad-6bfd-45ce-8807-f5442b246e52")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 104.4642 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Col12"
-		(shape input)
-		(at 96.52 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fefe6943-6656-4696-b12d-594804d45885")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.0084 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
