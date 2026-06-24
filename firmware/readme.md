@@ -4,13 +4,16 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [sentry-encoder](https://github.com/markstory)
+* Keyboard Maintainer: [markstory](https://github.com/markstory)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
     make sentryencoder:default
+    
+    # or
+    qmk compile -kb sentryencoder -km default
 
 Flashing example for this keyboard:
 
