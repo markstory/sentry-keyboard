@@ -31726,7 +31726,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7e13b2a-fa7b-4f60-9061-0fae32074095")
-		(property "Reference" "MXhome1"
+		(property "Reference" "MXend1"
 			(at 347.5482 131.4958 0)
 			(effects
 				(font
@@ -31777,7 +31777,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MXhome1")
+					(reference "MXend1")
 					(unit 1)
 				)
 			)
@@ -32743,7 +32743,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3631943-fe17-454e-a51b-4dd7b8c83304")
-		(property "Reference" "MXend1"
+		(property "Reference" "MXhome1"
 			(at 357.7082 131.4958 0)
 			(effects
 				(font
@@ -32794,7 +32794,7 @@
 		(instances
 			(project "sentry-keyboard-v1"
 				(path "/db914c1a-35d4-4b87-a1dd-e01e7dff4eef"
-					(reference "MXend1")
+					(reference "MXhome1")
 					(unit 1)
 				)
 			)
