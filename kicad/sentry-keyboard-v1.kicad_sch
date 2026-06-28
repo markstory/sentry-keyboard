@@ -4007,6 +4007,16 @@
 		)
 		(uuid "9713dbef-b741-45a4-b344-b413c0c58668")
 	)
+	(text "The encoder switch is here"
+		(exclude_from_sim no)
+		(at 388.62 98.552 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b9b70cc5-2bc6-4542-aa50-7734fce4033a")
+	)
 	(text "Key Matrix"
 		(exclude_from_sim no)
 		(at 244.094 17.526 0)
@@ -13975,7 +13985,7 @@
 			)
 		)
 	)
-	(global_label "Col12"
+	(global_label "Col13"
 		(shape input)
 		(at 207.01 106.68 0)
 		(fields_autoplaced yes)

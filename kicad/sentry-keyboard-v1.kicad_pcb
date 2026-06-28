@@ -933,7 +933,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 192 "Col12")
+			(net 200 "Col13")
 			(pinfunction "S1")
 			(pintype "passive")
 			(uuid "33b720b8-9bdd-4f9c-a6b7-c5fad23a8421")
@@ -105707,14 +105707,6 @@
 		(uuid "54ac0456-a599-4063-9787-e8cab094fdbd")
 	)
 	(segment
-		(start 344.569 83.569)
-		(end 301.965076 83.569)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 192)
-		(uuid "6573db22-32fc-4e15-afd2-96a3073f1a81")
-	)
-	(segment
 		(start 297.999 141.001)
 		(end 298 141)
 		(width 0.2)
@@ -105737,14 +105729,6 @@
 		(layer "B.Cu")
 		(net 192)
 		(uuid "77d166dd-9b9d-4ab2-be2a-53ed26b06ac0")
-	)
-	(segment
-		(start 349 88)
-		(end 344.569 83.569)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 192)
-		(uuid "872f273b-b7cc-4cba-9cff-0bcb43ebd37d")
 	)
 	(segment
 		(start 324.835084 169.664916)
@@ -105873,14 +105857,6 @@
 		(layer "B.Cu")
 		(net 192)
 		(uuid "f5a13073-a1d9-438f-93fd-d82c5ad15f2f")
-	)
-	(segment
-		(start 301.965076 83.569)
-		(end 297.571254 87.962822)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 192)
-		(uuid "fa3e74a1-fdca-49c3-afaf-b1d9db2b5c61")
 	)
 	(segment
 		(start 292.745738 133.245738)
@@ -106659,6 +106635,14 @@
 		(uuid "15bd2453-0397-4a14-a77a-412eaa3134b9")
 	)
 	(segment
+		(start 321.255 87.96)
+		(end 321.255 85.995)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 200)
+		(uuid "1dfb8cff-ecb0-4898-bbb3-6c267b23cee9")
+	)
+	(segment
 		(start 316.300999 140.401)
 		(end 316.5 140.600001)
 		(width 0.2)
@@ -106739,6 +106723,14 @@
 		(uuid "924b5c91-da4d-46ce-83b6-5be8c0f6fc40")
 	)
 	(segment
+		(start 321.255 85.995)
+		(end 324.25 83)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 200)
+		(uuid "9a1d00eb-54d1-44f7-841b-64c4e0cc3ef2")
+	)
+	(segment
 		(start 316.573 127.073)
 		(end 316.573 129.76443)
 		(width 0.2)
@@ -106787,6 +106779,14 @@
 		(uuid "dc79a1df-dd93-4457-88ed-3913771cb8bb")
 	)
 	(segment
+		(start 324.25 83)
+		(end 344 83)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 200)
+		(uuid "e251561f-ec92-4c74-8cba-4858a4c2c753")
+	)
+	(segment
 		(start 321.255 87.96)
 		(end 321.255 91.755)
 		(width 0.2)
@@ -106801,6 +106801,14 @@
 		(layer "B.Cu")
 		(net 200)
 		(uuid "fa69a468-b6c4-4f42-8c52-17904b98606d")
+	)
+	(segment
+		(start 344 83)
+		(end 349 88)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 200)
+		(uuid "fc97c187-7af7-4870-88d8-c2abb97556da")
 	)
 	(segment
 		(start 210.6 184.5)
