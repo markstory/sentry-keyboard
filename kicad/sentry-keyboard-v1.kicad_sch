@@ -5934,10 +5934,6 @@
 		(uuid "363a7c0a-ed53-4917-81a3-661161bd86d8")
 	)
 	(no_connect
-		(at 96.52 105.41)
-		(uuid "abfef8f3-38c0-4d3d-a2a8-dbc6db094754")
-	)
-	(no_connect
 		(at 274.32 374.65)
 		(uuid "d197be57-4f4e-455b-b50c-e77aa5efcc9e")
 	)
@@ -14175,7 +14171,7 @@
 	)
 	(global_label "Col12"
 		(shape input)
-		(at 96.52 118.11 0)
+		(at 96.52 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14185,7 +14181,7 @@
 		)
 		(uuid "62e69920-7d1e-4b58-b6cf-8de1bef7e56d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.0084 118.11 0)
+			(at 105.0084 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
