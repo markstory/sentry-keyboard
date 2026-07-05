@@ -29,13 +29,17 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     )
 };
 
+/*
+/// Uncommment this to change the mapping of the encoder.
+/// by default qmk makes encoders control volume.
 bool encoder_update_user(uint8_t index, bool clockwise) {
     // Assume index is always 0 because only 1 encoder exists.
-    /* With an if statement we can check which encoder was turned. */
+    // With an if statement we can check which encoder was turned.
     if (clockwise) {
         tap_code(KC_VOLU);
     } else {
         tap_code(KC_VOLD);
     }
-    return true;
+    return false;
 }
+*/
