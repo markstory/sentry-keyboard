@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include QMK_KEYBOARD_H
+#include "print.h"
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      /*
@@ -30,15 +31,17 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 /*
-/// Uncommment this to change the mapping of the encoder.
-/// by default qmk makes encoders control volume.
 bool encoder_update_user(uint8_t index, bool clockwise) {
     // Assume index is always 0 because only 1 encoder exists.
-    // With an if statement we can check which encoder was turned.
+    // With an if statement we can check which encoder was turned. * /
     if (clockwise) {
-        tap_code(KC_VOLU);
+        print("clockwise");
+        // tap_code(KC_VOLU);
+        tap_code(KC_K);
     } else {
-        tap_code(KC_VOLD);
+        // tap_code(KC_VOLD);
+        print("no clock");
+        tap_code(KC_J);
     }
     return false;
 }
