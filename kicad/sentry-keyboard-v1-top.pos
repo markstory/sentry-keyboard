@@ -1,0 +1,7 @@
+### Footprint positions - created on 2026-08-03T14:15:16-0400 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                  PosX       PosY       Rot  Side
+SW2       RotaryEncoder_Switch  RotaryEncoder_EC11   354.2500   -89.4000  180.0000  top
+## End

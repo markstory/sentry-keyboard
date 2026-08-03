@@ -1323,7 +1323,7 @@
       "idf": "",
       "netlist": "",
       "plot": "../gerber/",
-      "pos_files": "",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
