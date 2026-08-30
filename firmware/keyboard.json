@@ -1,6 +1,6 @@
 {
     "manufacturer": "markstory",
-    "keyboard_name": "sentryencoder",
+    "keyboard_name": "sentry-keyboard-v2",
     "maintainer": "markstory",
     "bootloader": "atmel-dfu",
     "development_board": "promicro",
@@ -11,7 +11,7 @@
         "bootmagic": true,
         "encoder": true,
         "extrakey": true,
-        "mousekey": true,
+        "mousekey": false,
         "nkro": true,
         "rgb_matrix": true
     },
