@@ -83295,8 +83295,8 @@
 		(layer "Edge.Cuts")
 		(uuid "fd063746-a543-4fde-a369-95b849eabda1")
 	)
-	(gr_text "sentry-keyboard.v2.0.0 - markstory"
-		(at 81.25 200.75 -0)
+	(gr_text "sentry-keyboard.v2.0.1 - markstory"
+		(at 81.25 200.75 0)
 		(layer "B.SilkS")
 		(uuid "14bff445-ce92-49ab-9cc5-59878ffa4770")
 		(effects
