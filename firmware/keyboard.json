@@ -34,6 +34,12 @@
             "cycle_all": true,
             "band_sat": true
         },
+        "default": {
+          "on": false,
+          "speed": 64,
+          "val": 64
+        },
+        "max_brightness": 127,
         "driver": "ws2812",
         "layout": [
             {"matrix": [5, 9], "x": 15, "y": 5, "flags": 4},
