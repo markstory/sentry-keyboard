@@ -35,7 +35,7 @@
             "band_sat": true
         },
         "default": {
-          "on": false,
+          "on": true,
           "speed": 64,
           "val": 64
         },
