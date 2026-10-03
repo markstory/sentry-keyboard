@@ -28307,7 +28307,7 @@
 				)
 			)
 		)
-		(property "Value" "500mA"
+		(property "Value" "750mA"
 			(at 166.37 47.9044 90)
 			(effects
 				(font

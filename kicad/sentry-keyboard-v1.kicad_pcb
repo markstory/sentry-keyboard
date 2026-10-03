@@ -56886,7 +56886,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "500mA"
+		(property "Value" "750mA"
 			(at 0 -1.83 90)
 			(layer "B.SilkS")
 			(uuid "832fc182-d1ee-4976-a70a-c30815567eb7")
