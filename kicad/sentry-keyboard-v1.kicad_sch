@@ -14353,6 +14353,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C44854"
+			(at 81.28 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "18237c59-81e4-423f-842c-b28bc58bebc1")
 		)
@@ -14673,6 +14682,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C180849"
+			(at 110.49 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aad3cf9-15e1-46d4-9851-af313909b592")
 		)
@@ -14803,6 +14821,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C472813"
+			(at 55.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14937,6 +14964,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C62912"
+			(at 21.59 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "96b28614-5cc5-4591-a013-77b4a2e6e788")
 		)
@@ -15003,6 +15039,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C62912"
+			(at 33.02 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15073,6 +15118,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C62912"
+			(at 43.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c4002ae-6d34-4737-99dc-edb713700df7")
 		)
@@ -15139,6 +15193,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C307520"
+			(at 54.61 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15401,6 +15464,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C258944"
+			(at 54.61 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2426ecd8-0ca3-4793-845e-3478e86c8c38")
 		)
@@ -15473,6 +15545,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C105623"
+			(at 45.72 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "544a536e-48f8-4585-ba69-396d0cafd9cf")
 		)
@@ -15537,6 +15618,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C105623"
+			(at 45.72 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15667,6 +15757,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C720467"
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15801,6 +15900,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C180849"
+			(at 66.04 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43272535-f5c8-461a-9991-ec8a1223e4fb")
 		)
@@ -15931,6 +16039,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 245.11 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "19149c03-1c79-4d3b-8a4c-ddf3082f4ae1")
 		)
@@ -15995,6 +16112,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 255.27 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -16063,6 +16189,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "49b8a189-f7aa-43f3-a7d8-6fe5b591a08a")
 		)
@@ -16127,6 +16262,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 275.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -16195,6 +16339,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 285.75 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dfea1160-f3ac-4c04-be8d-5d93758d4368")
 		)
@@ -16259,6 +16412,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 295.91 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -16329,6 +16491,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 241.3 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff696e4d-3124-4eb0-8118-d5020c803776")
 		)
@@ -16395,6 +16566,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 251.46 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16465,6 +16645,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 261.62 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "583909dc-5230-43a1-ba2e-463ad81e5902")
 		)
@@ -16531,6 +16720,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 271.78 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16601,6 +16799,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 281.94 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cca7b91a-346b-411f-8590-2624e2107820")
 		)
@@ -16667,6 +16874,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 292.1 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16737,6 +16953,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 292.1 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40c326d5-d208-442a-b0db-309e43259262")
 		)
@@ -16803,6 +17028,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 281.94 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16873,6 +17107,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 271.78 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7efd8541-ae12-40e3-9a73-958290425228")
 		)
@@ -16939,6 +17182,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 261.62 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -17009,6 +17261,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 251.46 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc09ecec-a5fc-4aee-a4d4-29237c4deabe")
 		)
@@ -17077,6 +17338,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 241.3 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a6e6494-ac13-4cd4-b1f9-b515935aa340")
 		)
@@ -17141,6 +17411,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 295.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -17209,6 +17488,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 285.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b74ff82-962f-49fb-af6b-3fc6eb2fdd32")
 		)
@@ -17273,6 +17561,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 275.59 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -17341,6 +17638,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "61e22248-7b97-486f-811e-17cf7d5d62bb")
 		)
@@ -17407,6 +17713,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95d2209d-8589-4a1e-ada8-eab70664399d")
 		)
@@ -17471,6 +17786,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 245.11 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -17541,6 +17865,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 292.1 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49e640ef-0109-43c8-a2ec-423232f36eb8")
 		)
@@ -17607,6 +17940,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 281.94 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -17677,6 +18019,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 271.78 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10c85861-8dce-45d7-b2da-2cbc9bf2975d")
 		)
@@ -17743,6 +18094,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 261.62 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -17813,6 +18173,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 251.46 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6ae6712-e3cd-42ff-97ce-7925272841ad")
 		)
@@ -17881,6 +18250,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 241.3 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b55392b4-4419-4583-af35-431c5b894dcc")
 		)
@@ -17945,6 +18323,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 295.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18013,6 +18400,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 285.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8d92f4f7-7229-456d-970a-d13437adba3e")
 		)
@@ -18077,6 +18473,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 275.59 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18145,6 +18550,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "077c7c4d-9999-465f-a0a9-20e7545f4562")
 		)
@@ -18211,6 +18625,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fe4b35e7-81a0-46dd-b0a6-ddc578dcabbb")
 		)
@@ -18275,6 +18698,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 245.11 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18345,6 +18777,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 292.1 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4af0dfa9-56f5-49d7-8bdd-07aebe451fe2")
 		)
@@ -18411,6 +18852,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 281.94 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -18481,6 +18931,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 271.78 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab46f779-f57a-4210-85c1-b8db533fdd88")
 		)
@@ -18547,6 +19006,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 261.62 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -18617,6 +19085,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 251.46 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0a97719-1cf3-47b7-8fd3-f60d41c36943")
 		)
@@ -18685,6 +19162,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 241.3 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a57f62d-0a85-4a98-a774-bd97af4c1d7b")
 		)
@@ -18749,6 +19235,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 295.91 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18817,6 +19312,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 285.75 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "960e4dc6-ac88-41f5-b2a0-ebb91af72795")
 		)
@@ -18881,6 +19385,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 275.59 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18949,6 +19462,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d364ea09-a41a-4bb0-a9ed-ba99a418b51e")
 		)
@@ -19015,6 +19537,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "deef4b97-9ed9-4cee-b08a-a12d2e516237")
 		)
@@ -19079,6 +19610,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -19276,6 +19816,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 27.94 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -19742,6 +20291,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 346.71 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "72f53926-1158-4918-a093-439ccaec9197")
 		)
@@ -19808,6 +20366,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 368.3 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d78ca3f1-708a-49e2-a806-895bcd9ed890")
 		)
@@ -19869,6 +20436,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 40.64 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 40.64 195.58 0)
 			(effects
 				(font
@@ -19949,6 +20525,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "190633aa-c35c-4c6a-93cf-5e3720ccd7bd")
 		)
@@ -20010,6 +20595,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 59.69 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 59.69 195.58 0)
 			(effects
 				(font
@@ -20092,6 +20686,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 312.42 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25d409c6-2426-443b-881f-374d8b9692ba")
 		)
@@ -20160,6 +20763,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 342.9 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61c6b38d-7415-4d5e-8b2f-aaa9616e381a")
 		)
@@ -20182,7 +20794,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0f1e524a-587b-4858-9ac3-97c13e723002")
 		(property "Reference" "F10"
 			(at 347.5482 29.8958 0)
@@ -20224,6 +20836,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 346.71 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -20294,6 +20915,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 342.9 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7459d2d-727e-4cba-8734-35cb90ca9937")
 		)
@@ -20355,6 +20985,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 100.33 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 100.33 228.6 0)
 			(effects
 				(font
@@ -20438,6 +21077,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 224.79 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f05b3c87-42d0-4a70-b492-1ebf387173cc")
 		)
@@ -20505,6 +21153,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 307.34 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 307.34 299.72 0)
 			(effects
 				(font
@@ -20587,6 +21244,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 261.62 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22f7dd8c-4c0d-4f38-b510-3d42f920b8a4")
 		)
@@ -20653,6 +21319,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 332.74 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -20723,6 +21398,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 353.06 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b215fd9d-b451-4c26-b780-ffb695924b78")
 		)
@@ -20782,6 +21466,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 148.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C696092"
 			(at 148.59 35.56 0)
 			(effects
 				(font
@@ -20857,6 +21550,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 266.7 339.09 0)
 			(effects
 				(font
@@ -21004,6 +21706,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 316.23 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c29bda67-d94e-42da-9e67-74212d2cf03b")
 		)
@@ -21065,6 +21776,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 203.2 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 203.2 299.72 0)
 			(effects
 				(font
@@ -21147,6 +21867,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 363.22 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a2fa2c8-e18f-4141-8da4-1ee1808a4e7c")
 		)
@@ -21208,6 +21937,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 80.01 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 80.01 299.72 0)
 			(effects
 				(font
@@ -21290,6 +22028,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 302.26 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb4bed8c-3926-493f-8c78-988f6dd536be")
 		)
@@ -21351,6 +22098,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 201.93 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 201.93 195.58 0)
 			(effects
 				(font
@@ -21433,6 +22189,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 374.65 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "050c6c4c-a909-465c-a61d-8df98883337e")
 		)
@@ -21499,6 +22264,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 281.94 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -21569,6 +22343,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 332.74 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fa99730-0a9c-4e5c-924c-06dc6930f92a")
 		)
@@ -21630,6 +22413,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 246.38 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 246.38 228.6 0)
 			(effects
 				(font
@@ -21708,6 +22500,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 336.55 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -21845,6 +22646,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 374.65 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7d9873e4-3a86-4459-a29d-59c63037cc62")
 		)
@@ -21913,6 +22723,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 312.42 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6b90ba08-ae24-4a71-8c51-1337817e290d")
 		)
@@ -21977,6 +22796,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 336.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -22047,6 +22875,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 302.26 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c5b7efa-29cc-49f7-bc2f-ae03473ebd8f")
 		)
@@ -22108,6 +22945,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 287.02 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 287.02 339.09 0)
 			(effects
 				(font
@@ -22188,6 +23034,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 346.71 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea37c47e-c6d7-4d6d-910e-7b18d10acd60")
 		)
@@ -22249,6 +23104,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 245.11 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 245.11 195.58 0)
 			(effects
 				(font
@@ -22332,6 +23196,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 266.7 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a2e6db8d-e5f5-4730-977b-4bdf6f947fb5")
 		)
@@ -22399,6 +23272,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 287.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 287.02 299.72 0)
 			(effects
 				(font
@@ -22479,6 +23361,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 255.27 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "96d053a3-8007-4480-83ad-ea6f98a50cb2")
 		)
@@ -22540,6 +23431,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 60.96 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 60.96 262.89 0)
 			(effects
 				(font
@@ -22620,6 +23520,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 326.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a2c03b52-ccb3-4f68-a23f-c99f61a9f9e1")
 		)
@@ -22686,6 +23595,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 346.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8cc96959-c40e-44f9-8892-60c6497f9911")
 		)
@@ -22747,6 +23665,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 246.38 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 246.38 299.72 0)
 			(effects
 				(font
@@ -22830,6 +23757,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 224.79 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "9bc8595e-b6bc-4669-b9af-89e9ed023cfe")
 		)
@@ -22902,6 +23838,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 295.91 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cfcdbdd8-023c-4c42-b78e-feca54090ba3")
 		)
@@ -22963,6 +23908,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 120.65 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 120.65 299.72 0)
 			(effects
 				(font
@@ -23045,6 +23999,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 353.06 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8e72065-53a9-44c9-8eef-e27705db790f")
 		)
@@ -23109,6 +24072,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 368.3 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -23179,6 +24151,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 241.3 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f39c43c9-5792-4c43-b764-02c9a518f480")
 		)
@@ -23240,6 +24221,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 80.01 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 80.01 262.89 0)
 			(effects
 				(font
@@ -23322,6 +24312,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 342.9 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b3438ff-00fe-4b4e-963d-bfa001ee3b72")
 		)
@@ -23390,6 +24389,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 342.9 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a13b6be-e99c-4c54-906b-072e62631d56")
 		)
@@ -23456,6 +24464,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 316.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c68cd33-1b34-4a4b-a9ca-348f812fe052")
 		)
@@ -23517,6 +24534,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 307.34 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 307.34 339.09 0)
 			(effects
 				(font
@@ -23597,6 +24623,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 316.23 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8de7f814-b548-45d5-b54e-3e7c3d1f648f")
 		)
@@ -23665,6 +24700,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 332.74 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dde2a573-a0a6-4144-ad99-038f1d876ae3")
 		)
@@ -23726,6 +24770,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 120.65 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 120.65 374.65 0)
 			(effects
 				(font
@@ -23801,6 +24854,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 266.7 374.65 0)
 			(effects
 				(font
@@ -23948,6 +25010,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 306.07 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6cea7427-a017-465f-b7c3-a854ffc33e82")
 		)
@@ -24016,6 +25087,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 364.49 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d509b26-27d7-49a1-9f69-deb94861e1a1")
 		)
@@ -24082,6 +25162,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 275.59 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0a67160-643b-4d6e-84cc-084de017a205")
 		)
@@ -24143,6 +25232,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 120.65 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 120.65 339.09 0)
 			(effects
 				(font
@@ -24226,6 +25324,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 224.79 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "206a6d54-7bf1-46c8-9092-63c726c1d41e")
 		)
@@ -24293,6 +25400,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 41.91 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 41.91 299.72 0)
 			(effects
 				(font
@@ -24375,6 +25491,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 332.74 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "363ebc4f-58f7-4ce5-a56c-89a666a65e6d")
 		)
@@ -24443,6 +25568,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 251.46 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "091e36db-bbac-4a5c-ad36-bc94d7cc3f8f")
 		)
@@ -24504,6 +25638,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 224.79 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 224.79 374.65 0)
 			(effects
 				(font
@@ -24584,6 +25727,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 245.11 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab3e4a2d-c882-4273-a8a2-672cca25e94b")
 		)
@@ -24645,6 +25797,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 60.96 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 60.96 339.09 0)
 			(effects
 				(font
@@ -24727,6 +25888,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 271.78 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fecf890c-1693-4766-aeef-dcc0877f0a2f")
 		)
@@ -24788,6 +25958,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 139.7 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 139.7 339.09 0)
 			(effects
 				(font
@@ -24871,6 +26050,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 160.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "9d1eed1a-a8b0-4310-8ed8-f1a9dbf2bae8")
 		)
@@ -24945,6 +26133,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 322.58 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0b371ee-9167-4560-af3d-d20665866e21")
 		)
@@ -25006,6 +26203,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 160.02 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 160.02 374.65 0)
 			(effects
 				(font
@@ -25089,6 +26295,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 307.34 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "99efd0c7-daee-4984-8745-65948d563167")
 		)
@@ -25161,6 +26376,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 378.46 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a24f8ac3-d8f5-4a3e-ba53-6df8bf364bdb")
 		)
@@ -25227,6 +26451,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 306.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "91d31dc3-2f4e-49e2-9673-9a7f449c0ee2")
 		)
@@ -25288,6 +26521,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 60.96 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 60.96 228.6 0)
 			(effects
 				(font
@@ -25371,6 +26613,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 100.33 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "deae71a5-e4c3-42c5-91b3-0ba9ca81b3f7")
 		)
@@ -25443,6 +26694,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 245.11 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e1b21ab-74e9-4267-8629-554530b3d099")
 		)
@@ -25504,6 +26764,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 203.2 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 203.2 228.6 0)
 			(effects
 				(font
@@ -25586,6 +26855,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 364.49 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "918be700-55a0-44b6-9c78-0cf5cf4b75e5")
 		)
@@ -25652,6 +26930,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C413152"
+			(at 166.37 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "725cdd9c-23d9-4e46-9139-4e2c4a729564")
 		)
@@ -25713,6 +27000,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 181.61 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 181.61 339.09 0)
 			(effects
 				(font
@@ -25795,6 +27091,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 353.06 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "273041fa-1662-44cc-90f6-25c3f75449c7")
 		)
@@ -25859,6 +27164,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 306.07 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -25996,6 +27310,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 364.49 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79decb4d-4c41-4449-87f8-4a93beeaf9a4")
 		)
@@ -26126,6 +27449,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 356.87 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "78833c67-d705-42b1-a5c5-a13099fdd1ab")
 		)
@@ -26187,6 +27519,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 266.7 228.6 0)
 			(effects
 				(font
@@ -26267,6 +27608,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 356.87 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f87c1bc-5d4e-4594-be7a-7e2238a1cdcd")
 		)
@@ -26335,6 +27685,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 364.49 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4ce043a-4f76-4339-9137-fcad969c7d5f")
 		)
@@ -26399,6 +27758,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 326.39 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -26469,6 +27837,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 322.58 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e694511-3182-4d85-86c8-adce89e5d170")
 		)
@@ -26530,6 +27907,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 266.7 262.89 0)
 			(effects
 				(font
@@ -26604,6 +27990,15 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 184.15 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C470748"
 			(at 184.15 109.22 0)
 			(effects
 				(font
@@ -26690,6 +28085,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 80.01 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "51242210-1d6c-45a0-a7c0-dddf5f1b366e")
 		)
@@ -26757,6 +28161,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 100.33 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 100.33 374.65 0)
 			(effects
 				(font
@@ -26840,6 +28253,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 119.38 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "516c6b95-0790-49c2-bcc4-46e2000841c0")
 		)
@@ -26912,6 +28334,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 285.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "75c09c5b-2085-4e32-9070-da59356da2bb")
 		)
@@ -26976,6 +28407,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 356.87 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -27046,6 +28486,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 378.46 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ebd3c668-25e0-46cb-9a2e-5a7c9e645c73")
 		)
@@ -27107,6 +28556,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 41.91 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 41.91 339.09 0)
 			(effects
 				(font
@@ -27187,6 +28645,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 295.91 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "889783d6-c502-4a4b-87c1-1532c186e887")
 		)
@@ -27248,6 +28715,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 307.34 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 307.34 262.89 0)
 			(effects
 				(font
@@ -27328,6 +28804,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 316.23 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "66982be1-d477-4b83-b095-b6e35c0d7b22")
 		)
@@ -27389,6 +28874,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 246.38 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 246.38 262.89 0)
 			(effects
 				(font
@@ -27472,6 +28966,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 287.02 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b569e1e2-b956-4a4e-8584-8246a7904657")
 		)
@@ -27539,6 +29042,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 100.33 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 100.33 262.89 0)
 			(effects
 				(font
@@ -27622,6 +29134,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 80.01 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "4665b9e1-6c51-4a98-80f2-5149806bcff6")
 		)
@@ -27689,6 +29210,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 224.79 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 224.79 228.6 0)
 			(effects
 				(font
@@ -27772,6 +29302,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 60.96 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "eecd3588-f954-4e5c-9d21-b03fde94f736")
 		)
@@ -27846,6 +29385,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 312.42 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f228a393-8819-4aa1-8733-4cf9765ddeb8")
 		)
@@ -27914,6 +29462,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 271.78 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59730a37-b8b4-448a-a2d9-e20c9cc7b725")
 		)
@@ -27975,6 +29532,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 78.74 195.58 0)
 			(effects
 				(font
@@ -28057,6 +29623,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 302.26 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74ac63df-fd70-4804-9663-f622e47c22bb")
 		)
@@ -28125,6 +29700,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 281.94 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69fc2867-9ce5-4c95-b566-d9d7b4f20927")
 		)
@@ -28186,6 +29770,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 138.43 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 138.43 195.58 0)
 			(effects
 				(font
@@ -28269,6 +29862,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 139.7 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2e39cff7-a6d9-47a8-b9b3-6fbce536221e")
 		)
@@ -28342,6 +29944,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C5144563"
+			(at 166.37 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a238d349-53b8-4fb4-beca-28a4ca73df22")
 		)
@@ -28403,6 +30014,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 41.91 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 41.91 228.6 0)
 			(effects
 				(font
@@ -28483,6 +30103,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 316.23 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a2ebaeb6-1349-44cf-96fd-dc55bbca9082")
 		)
@@ -28551,6 +30180,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 302.26 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2dc40ad4-3a50-44bc-a5f9-f0116193254c")
 		)
@@ -28612,6 +30250,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 306.07 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 306.07 195.58 0)
 			(effects
 				(font
@@ -28692,6 +30339,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "496a12fa-fa21-4230-adef-2d667eb170bd")
 		)
@@ -28758,6 +30414,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 306.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2d8fccbc-8e3f-4850-a39f-2266b9a1abf6")
 		)
@@ -28819,6 +30484,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 180.34 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 180.34 195.58 0)
 			(effects
 				(font
@@ -28902,6 +30576,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 285.75 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "634e33e0-8860-416b-80ae-47bef2d8d11e")
 		)
@@ -28976,6 +30659,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 374.65 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de17788b-5317-4c1e-85e0-0d1755c67bc8")
 		)
@@ -29044,6 +30736,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 353.06 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61dedd6d-06b6-45eb-b93b-92f533d2d972")
 		)
@@ -29110,6 +30811,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 342.9 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -29313,6 +31023,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 312.42 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "82aea8e3-144e-4537-91a8-01fb81542a64")
 		)
@@ -29446,6 +31165,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 306.07 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "402d8499-cd12-4c84-b2f5-f13cb82dfa49")
 		)
@@ -29512,6 +31240,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 368.3 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e890a7b2-ef66-4628-b38a-3a06fa4852eb")
 		)
@@ -29573,6 +31310,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 287.02 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 287.02 262.89 0)
 			(effects
 				(font
@@ -29653,6 +31399,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 378.46 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bccd7bda-18f1-402b-9407-7933f2872a18")
 		)
@@ -29721,6 +31476,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 302.26 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d73461d8-cbd6-4283-b3c0-e173514923eb")
 		)
@@ -29782,6 +31546,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 80.01 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 80.01 339.09 0)
 			(effects
 				(font
@@ -29864,6 +31637,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 292.1 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29a5ad08-bf35-451a-ad72-3154b668cc50")
 		)
@@ -29930,6 +31712,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 326.39 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6824bd95-be7a-4052-8027-5f6371e9f6fa")
 		)
@@ -29991,6 +31782,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 41.91 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 41.91 262.89 0)
 			(effects
 				(font
@@ -30074,6 +31874,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 181.61 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "19a22459-cae1-4368-b2c9-8caced61dabd")
 		)
@@ -30141,6 +31950,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 99.06 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 99.06 195.58 0)
 			(effects
 				(font
@@ -30223,6 +32041,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 322.58 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9fa2441-4430-4d6d-b620-b561720a72e4")
 		)
@@ -30284,6 +32111,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 41.91 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 41.91 374.65 0)
 			(effects
 				(font
@@ -30366,6 +32202,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 332.74 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cea10835-31e8-4358-ac00-d9cb6fa44675")
 		)
@@ -30432,6 +32277,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 326.39 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2ba8c786-6c77-47be-9dff-13b7aa466b0f")
 		)
@@ -30493,6 +32347,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 181.61 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 181.61 374.65 0)
 			(effects
 				(font
@@ -30576,6 +32439,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 203.2 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "50e8b380-14b4-46f5-9316-f6f04b6bd7b6")
 		)
@@ -30650,6 +32522,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 353.06 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e07aba8c-f49b-47fa-9e7b-1f376d41cb28")
 		)
@@ -30711,6 +32592,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 160.02 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 160.02 339.09 0)
 			(effects
 				(font
@@ -30794,6 +32684,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 265.43 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "01ab0986-3746-4ceb-9cc0-e090d49897bf")
 		)
@@ -30866,6 +32765,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 346.71 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f18a00d-2a88-4365-ac22-29f1cd6f78b5")
 		)
@@ -30930,6 +32838,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 346.71 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -31000,6 +32917,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 342.9 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f02a4b7-afd5-4422-817a-91e2c16e4c27")
 		)
@@ -31064,6 +32990,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 275.59 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -31132,6 +33067,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 336.55 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1d01963f-b335-46c6-93f5-9b99eb55eae5")
 		)
@@ -31193,6 +33137,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 246.38 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 246.38 339.09 0)
 			(effects
 				(font
@@ -31340,6 +33293,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 326.39 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e266813-eae9-4185-8435-d11871da0683")
 		)
@@ -31408,6 +33370,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 332.74 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "017a72be-e2ba-415a-b07e-af29ed27c05c")
 		)
@@ -31472,6 +33443,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 336.55 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -31540,6 +33520,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 336.55 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a139bee6-8503-4614-8800-b549afd5c739")
 		)
@@ -31604,6 +33593,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 265.43 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -31742,6 +33740,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 120.65 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c8f206b5-7da7-4acb-a7b5-2ef34c125e66")
 		)
@@ -31816,6 +33823,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 322.58 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f40a675-e2e4-41c2-a26b-c73243f09eb3")
 		)
@@ -31880,6 +33896,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 356.87 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -31950,6 +33975,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 322.58 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f38c4e6-6bcb-48e8-962a-838ff57c7869")
 		)
@@ -32011,6 +34045,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 181.61 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 181.61 299.72 0)
 			(effects
 				(font
@@ -32160,6 +34203,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 251.46 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ab5cefc-c5b2-4ed7-9de0-28bf9cbb27c0")
 		)
@@ -32221,6 +34273,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 100.33 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 100.33 339.09 0)
 			(effects
 				(font
@@ -32303,6 +34364,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 199.39 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cfa6bf4f-adfc-4ad0-8db1-386fdb1e51c7")
 		)
@@ -32364,6 +34434,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 158.75 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 158.75 195.58 0)
 			(effects
 				(font
@@ -32446,6 +34525,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 353.06 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53808fb4-1bbf-44d9-847d-6abad89a1cbf")
 		)
@@ -32507,6 +34595,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 120.65 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 120.65 228.6 0)
 			(effects
 				(font
@@ -32589,6 +34686,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 261.62 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36c4cc7e-f8c9-47de-904a-4cc70a3de9b8")
 		)
@@ -32655,6 +34761,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 316.23 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "71eb26c3-2750-462f-b2d0-0b82044f4608")
 		)
@@ -32716,6 +34831,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 139.7 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 139.7 262.89 0)
 			(effects
 				(font
@@ -32799,6 +34923,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 203.2 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5fcf98ff-ce97-4212-b7c2-8551e457bf63")
 		)
@@ -32873,6 +35006,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 322.58 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc5d8721-679a-4ab9-b938-a4d998ed8349")
 		)
@@ -32934,6 +35076,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 139.7 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 139.7 228.6 0)
 			(effects
 				(font
@@ -33016,6 +35167,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 302.26 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc56222e-8072-497d-9a7a-88db8233d0c5")
 		)
@@ -33082,6 +35242,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 378.46 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7ed45ffe-bc44-4b81-aeb2-f22fc66c57ff")
 		)
@@ -33146,6 +35315,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 336.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -33216,6 +35394,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 312.42 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0530dac8-37c5-4bae-a0f9-628ca0e72049")
 		)
@@ -33282,6 +35469,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 285.75 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "acc1a863-d40d-4883-a4c9-28d0390306de")
 		)
@@ -33343,6 +35539,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 181.61 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 181.61 262.89 0)
 			(effects
 				(font
@@ -33490,6 +35695,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 139.7 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d15cc3d6-b3d2-45e3-b6b6-fd5150a766cb")
 		)
@@ -33564,6 +35778,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 241.3 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc5a8fe0-703b-4db4-adec-ad8161f72f4c")
 		)
@@ -33628,6 +35851,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 368.3 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -33696,6 +35928,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 326.39 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc6633fe-6ce4-4b91-b3e2-b010ac87b555")
 		)
@@ -33760,6 +36001,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 356.87 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -33890,6 +36140,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 203.2 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 203.2 262.89 0)
 			(effects
 				(font
@@ -34037,6 +36296,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 306.07 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "13dc95be-25a7-40c5-a292-f66a69605c46")
 		)
@@ -34105,6 +36373,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 364.49 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "96a447e9-6b86-48f2-b08d-932872a7eae5")
 		)
@@ -34169,6 +36446,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 367.03 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -34237,6 +36523,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 368.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef367f62-4804-4c2b-b23b-a3cf8760e0af")
 		)
@@ -34303,6 +36598,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C413152"
+			(at 166.37 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0aa4c2a-313f-4714-9e38-38733af80db6")
 		)
@@ -34364,6 +36668,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 60.96 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 60.96 374.65 0)
 			(effects
 				(font
@@ -34447,6 +36760,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 160.02 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bbc6b2ed-a588-4641-95ff-a9c0492fabf2")
 		)
@@ -34521,6 +36843,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 312.42 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76151cac-0164-4f82-bf20-4c3f2d992a36")
 		)
@@ -34582,6 +36913,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 223.52 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 223.52 195.58 0)
 			(effects
 				(font
@@ -34662,6 +37002,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 356.87 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2922ac5-daeb-4a59-b202-df15a3833205")
 		)
@@ -34730,6 +37079,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7420318"
+			(at 374.65 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9190c342-6c52-42ce-bf84-2522bc365a8e")
 		)
@@ -34791,6 +37149,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 246.38 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5149201"
 			(at 246.38 374.65 0)
 			(effects
 				(font
@@ -34938,6 +37305,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5149201"
+			(at 160.02 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "fd82666a-24b2-4f16-98ae-eb3fa01093bc")
 		)
@@ -35077,6 +37453,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C7420318"
+			(at 292.1 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
