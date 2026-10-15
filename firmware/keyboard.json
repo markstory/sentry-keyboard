@@ -37,9 +37,9 @@
         "default": {
           "on": true,
           "speed": 64,
-          "val": 64
+          "val": 80
         },
-        "max_brightness": 127,
+        "max_brightness": 160,
         "sleep": true,
         "driver": "ws2812",
         "layout": [
