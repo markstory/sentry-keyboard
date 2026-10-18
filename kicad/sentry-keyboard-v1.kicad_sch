@@ -14964,7 +14964,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C62912"
+		(property "LCSC Part #" "C49678"
 			(at 21.59 118.11 0)
 			(effects
 				(font
@@ -15041,7 +15041,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C62912"
+		(property "LCSC Part #" "C49678"
 			(at 33.02 118.11 0)
 			(effects
 				(font
@@ -15118,7 +15118,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C62912"
+		(property "LCSC Part #" "C49678"
 			(at 43.18 118.11 0)
 			(effects
 				(font
@@ -20794,7 +20794,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0f1e524a-587b-4858-9ac3-97c13e723002")
 		(property "Reference" "F10"
 			(at 347.5482 29.8958 0)

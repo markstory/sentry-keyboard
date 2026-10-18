@@ -2778,7 +2778,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C62912"
+		(property "LCSC Part #" "C49678"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34181,7 +34181,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C62912"
+		(property "LCSC Part #" "C49678"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -55772,7 +55772,7 @@
 		(path "/0f1e524a-587b-4858-9ac3-97c13e723002")
 		(sheetname "/")
 		(sheetfile "sentry-keyboard-v1.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start 9.525 9.525)
 			(end -9.525 9.525)
@@ -68608,7 +68608,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C62912"
+		(property "LCSC Part #" "C49678"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
